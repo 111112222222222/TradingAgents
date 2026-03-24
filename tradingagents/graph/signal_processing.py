@@ -18,13 +18,14 @@ class SignalProcessor:
             full_signal: Complete trading signal text
 
         Returns:
-            Extracted rating (BUY, OVERWEIGHT, HOLD, UNDERWEIGHT, or SELL)
+            Extracted rating (BUY, ACCUMULATE, HOLD, REDUCE, or SELL)
         """
         messages = [
             (
                 "system",
                 "You are an efficient assistant that extracts the trading decision from analyst reports. "
-                "Extract the rating as exactly one of: BUY, OVERWEIGHT, HOLD, UNDERWEIGHT, SELL. "
+                "Extract the rating as exactly one of: BUY, ACCUMULATE, HOLD, REDUCE, SELL. "
+                "Note: 'Overweight' maps to ACCUMULATE. 'Underweight' maps to REDUCE. "
                 "Output only the single rating word, nothing else.",
             ),
             ("human", full_signal),

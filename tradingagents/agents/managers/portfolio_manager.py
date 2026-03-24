@@ -29,9 +29,9 @@ def create_portfolio_manager(llm, memory):
 
 **Rating Scale** (use exactly one):
 - **Buy**: Strong conviction to enter or add to position
-- **Overweight**: Favorable outlook, gradually increase exposure
+- **Accumulate**: Favorable outlook, gradually increase exposure
 - **Hold**: Maintain current position, no action needed
-- **Underweight**: Reduce exposure, take partial profits
+- **Reduce**: Reduce exposure, take partial profits
 - **Sell**: Exit position or avoid entry
 
 **Context:**
@@ -39,7 +39,7 @@ def create_portfolio_manager(llm, memory):
 - Lessons from past decisions: **{past_memory_str}**
 
 **Required Output Structure:**
-1. **Rating**: State one of Buy / Overweight / Hold / Underweight / Sell.
+1. **Rating**: State one of Buy / Accumulate / Hold / Reduce / Sell.
 2. **Executive Summary**: A concise action plan covering entry strategy, position sizing, key risk levels, and time horizon.
 3. **Investment Thesis**: Detailed reasoning anchored in the analysts' debate and past reflections.
 
