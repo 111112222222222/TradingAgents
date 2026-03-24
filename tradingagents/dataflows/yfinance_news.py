@@ -118,12 +118,55 @@ def get_global_news_yfinance(
     Returns:
         Formatted string containing global news articles
     """
-    # Search queries for macro/global news
+    # Search queries for comprehensive macro coverage
     search_queries = [
-        "stock market economy",
-        "Federal Reserve interest rates",
-        "inflation economic outlook",
-        "global markets trading",
+        # Core macro
+        "stock market economy outlook",
+        "Federal Reserve interest rates monetary policy",
+        "inflation CPI PPI economic data",
+        "global markets trading recession",
+        # Credit & debt markets
+        "private credit private debt leveraged loans CLO",
+        "corporate bond spreads high yield credit",
+        "bank lending standards credit conditions",
+        # Rates & fixed income
+        "Treasury yields yield curve inversion",
+        "mortgage rates housing market",
+        # Commodities & energy
+        "oil prices OPEC energy commodities",
+        "gold copper commodity prices",
+        # Geopolitics & trade
+        "tariffs trade war sanctions geopolitical",
+        "China economy trade relations",
+        # Labor & consumer
+        "jobs report unemployment labor market",
+        "consumer spending retail earnings",
+        # Tech & AI sector
+        "AI spending big tech earnings capex",
+        # Semiconductors
+        "semiconductor chip export controls TSMC inventory",
+        # Volatility & flows
+        "VIX volatility market risk sentiment",
+        "fund flows ETF inflows outflows",
+        # Real estate / CRE
+        "commercial real estate office vacancy REIT",
+        # Financials / banking
+        "regional bank stress deposit flows bank earnings",
+        # Healthcare / pharma
+        "FDA drug approval healthcare policy pharma",
+        # Defense / aerospace
+        "defense spending military contracts aerospace",
+        # Supply chain / shipping
+        "freight rates shipping supply chain reshoring",
+        # Lower priority — still track but less weight
+        # Crypto
+        "bitcoin crypto ETF flows stablecoin",
+        # IPO / M&A
+        "IPO market M&A deal pipeline",
+        # Climate / ESG
+        "carbon policy green energy climate ESG",
+        # Emerging markets / FX
+        "emerging markets dollar strength EM debt",
     ]
 
     all_news = []
