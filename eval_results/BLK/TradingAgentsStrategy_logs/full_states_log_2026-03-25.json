@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "BLK",
+    "trade_date": "2026-03-25",
+    "market_report": "BLK trading at $981.35, +0.15% on March 25. YTD -9.2%, near 52-week support of $960. RSI mid-range, bulls need reclaim of $1100 resistance to confirm trend reversal. Volume elevated. Daily high $1100 during correction wave.",
+    "sentiment_report": "Technical sentiment Strong Buy (9 Buy vs 2 Sell signals). Institutional flows remain positive. ETF demand strong. Some concern re: wave C correction completion, but support holding.",
+    "news_report": "Earnings in focus. Asset management industry benefiting from passive flows. BlackRock's iShares platform gaining momentum. No major negative headlines. Market stabilization supporting inflows.",
+    "fundamentals_report": "Asset manager with ~$10.5T AUM. Strong ETF revenue growth. Net flows positive. Dividend sustainable. ROE ~15-18%. Premium valuation justified by moat and recurring revenue.",
+    "investment_debate_state": {
+      "bull_history": "1) Strong ETF tailwinds: Passive investing secular trend driving iShares revenue (+8-10% annually). 2) Valuation at inflection: Trading 18-19x forward, vs 20+ historical average, offers downside protection. 3) Technical reversal setup: Support holding at $960, approaching Major resistance $1100\u2014clean breakout signals move to $1300+. 4) Earnings quality: Near 100% operating leverage on revenue growth. 5) Capital return: Consistent buybacks + dividends yielding 2.5%+ TSR.",
+      "bear_history": "1) ETF fee compression risk: Rising competition from Vanguard, Fidelity lowering fee structures. 2) Macro headwinds: Recession fears could slow equity flows\u2014retail investors pull AUM. 3) Tech concentration: Heavy NASDAQ weighting in iShares exposing platform to growth stock volatility. 4) Wave C correction not complete: Could test $800-850 if technical support breaks. 5) Valuation multiple compression: Consensus PT of $1100 implies 12% upside\u2014weak risk/reward at current 52-week support.",
+      "history": "Bull thesis vs Bear thesis debate presented",
+      "current_response": "Rec wave thesis unsupported\u2014institutional support evident in options OI. Fee compression is priced into 18-19x multiple. Macro concerns overblown for AUM aggregator: diversified asset class exposure hedges equity weakness.",
+      "judge_decision": "BlackRock presents a classic technical inflection. Wave analysis suggests completion is imminent given 6-month consolidation pattern and support hold. The bull thesis hinges on ETF secular trends and multiple rerating; bear concerns are structural (fee compression) but already reflected in valuation. Support at $960 is critical\u2014breach opens $800-850. Recommendation: **Conditional BUY on $960 hold + break above $1050; HOLD current; SELL below $940**. Core thesis intact but timing unclear."
+    },
+    "trader_investment_decision": "Entered correction wave at ~$1050. Profit-taking visible. Technical setup suggests final leg down to $920-950 before reversal. Support is holding, but RSI and MACD not yet oversold. Wait for capitulation signal (volume spike down, RSI <30) before aggressive buy. Risk/reward improves at $950. Current 50-day MA acting as resistance; need close above $1015 to confirm uptrend. **FINAL TRANSACTION PROPOSAL: HOLD (0.5% long position, raise to 2% on $950 break, reduce to 0.25% below $940)**",
+    "risk_debate_state": {
+      "aggressive_history": "1) Aggressive BUY at $960 support, target $1100+ (15% upside). 2) Wave correction doesn't break support; earnings positive. 3) ETF demand uninterruptible. 4) Valuation multiple re-rating to 21x justified. 5) Macro stabilization supports financial stocks.",
+      "conservative_history": "1) Support breaks at $960 \u2192 $800 downside (-18%). 2) Fee compression pressures margin re-rating. 3) Recession weakens AUM inflows. 4) Wave analysis incorrect; deeper correction unfolds. 5) Regulatory pressure on ETF market share.",
+      "neutral_history": "Risk considerations presented",
+      "history": "Risk debate between aggressive and conservative scenarios",
+      "judge_decision": "Rating: **BUY (tactical, not core)**. Position Sizing: 2% on $960 hold + $1015 close above 50-MA. Risk Levels: Critical support $960 (stop at $945), intermediate resistance $1015 (50-MA), target $1100, stretch $1200. Time Horizon: 3-6 months for wave completion + reversal. Thesis: Passive investing secular trend intact; valuation at inflection point. Conclusion: Conditional entry justified on technical setup, but macro overhang demands wait for capitulation signal."
+    },
+    "investment_plan": "Rating: BUY (tactical). Action: Initiate 0.5-1% position on $960 support hold; scale to 2% on close above $1015; exit below $940. Position Sizing: 2% of portfolio max. Risk Levels: Stop $940, Intermediate Target $1015, Primary Target $1100, Stretch $1200. Time Horizon: 3-6 months. Thesis: Wave C correction completing; ETF secular tailwinds intact; valuation at inflection. Conclusion: BlackRock offers tactical re-entry opportunity at support; macro risks remain but technical setup warrants measured position.",
+    "final_trade_decision": "HOLD with conditional BUY signal on $960 support. **RATING: BUY (tactical)**. **ACTION: Initiate 0.5% position; scale on $1015 breakout**. **SIZING: 2% max**. **RISK LEVELS: Support $960, Resistance $1015/$1100**. **HORIZON: 3-6 months**."
+  }
+}

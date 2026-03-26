@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "TD.TO (Toronto Dominion Bank)",
+    "trade_date": "2026-03-25",
+    "market_report": "TD.TO at $82.15 CAD, +0.9% on day. 2.8M volume solid. Dividend yield 3.95% (quarterly CAD $0.81/share, annualized $3.24). P/E 11.5 (below market). Price near 52-week support.",
+    "sentiment_report": "TD sentiment cautious; bank sector pressured by rate cycle uncertainty. Some dividend hunters adding. Analyst consensus 'Hold'. Valuation attractive but sentiment defensive.",
+    "news_report": "TD: Q4 earnings beat (NIM expansion). Guidance neutral on 2026 (rate assumptions stable). Capital ratios solid. No major litigation.",
+    "fundamentals_report": "TD net interest margin stable; loan growth moderate; provisions normalized. Dividend well-covered (payout ratio 35-40%). Capital tier 1 ratio 13.2% (strong). Book value ~$60 (TD trading 1.37x P/B).",
+    "investment_debate_state": {
+      "bull_history": "Bull: TD undervalued at $82 CAD (11.5x P/E). Dividend yield 3.95% attractive. Bank dividend stability + capital strength. Rates staying higher longer supports NIM. Buyback underway.",
+      "bear_history": "Bear: Recession risk threatens loan quality. Deposit costs rising if rates stay high (margin pressure). Efficiency challenges. Better opportunities in tech/growth elsewhere.",
+      "history": "Value thesis vs macro recession risk.",
+      "current_response": "Judge: TD fair-valued for dividend income; not growth engine. Suitable for income portfolios. Recession risk real but manageable for major bank.",
+      "judge_decision": "Moderate bullish bias. TD suitable for income / defensive allocation. Valuation reasonable; dividend coverage strong."
+    },
+    "trader_investment_decision": "Trader: TD.TO support at $80, resistance $85. Technical pattern sideways. Volume solid. Dividend date Q2 (April). **FINAL TRANSACTION PROPOSAL: BUY** (1-2 year income position, 4-5% portfolio core)",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive: 5-6% TD.TO; dividend growth + capital appreciation.",
+      "conservative_history": "Conservative: 3% max; rate cut risks loom.",
+      "neutral_history": "Neutral: 4-5% core income position.",
+      "history": "Portfolio allocation philosophy.",
+      "judge_decision": "Rating: BUY | Sizing: 4% | Horizon: 12+ months | Risk: 2/5. Triggers: (1) dividend cut, (2) recession deepens, (3) capital concerns, (4) merger/takeover, (5) P/B compression."
+    },
+    "investment_plan": "PM: TD.TO core income holding. 4% allocation balanced. Use weakness toward $80 for accumulation.",
+    "final_trade_decision": "RATING: BUY | ACTION: Initiate 4% income position | SIZING: 4% of portfolio | RISK LEVEL: 2/5 | HORIZON: 12+ months | THESIS: Dividend yield; capital strength; fair valuation. CONCLUSION: Core income holding for conservative portfolios."
+  }
+}

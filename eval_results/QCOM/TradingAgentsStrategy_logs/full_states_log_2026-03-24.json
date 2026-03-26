@@ -1,0 +1,27 @@
+{
+  "2026-03-24": {
+    "company_of_interest": "QCOM",
+    "trade_date": "2026-03-24",
+    "market_report": "QCOM Price: $128.0 | Change: -8.5% | P/E: 25.89 | Target: $167.35 | 52W Range: $85-$190",
+    "sentiment_report": "Mixed - revenue guidance concerns but strong automotive growth",
+    "news_report": "Facing competitive pressures in smartphone market; automotive segment showing strength",
+    "fundamentals_report": "Market Cap: $145B | P/E: 25.89 | Volume: 45.2M shares | Consensus: Buy",
+    "investment_debate_state": {
+      "bull_history": "Automotive segment showing strong growth with 30%+ annual gains. P/E of 25.89 is reasonable for semiconductor leader. Analyst consensus shows 30% upside to $167.35 target.",
+      "bear_history": "Revenue guidance concerns and competitive pressures materializing. Down 8.5% YTD despite buy ratings. Premium P/E of 25.89 relative to industry. Smartphone market saturation risks.",
+      "history": "Bull case emphasizes positive catalysts and valuation. Bear case highlights risks and technical weakness.",
+      "current_response": "Both sides present legitimate views on QCOM. Bull focuses on catalysts, bear on risks.",
+      "judge_decision": "Core disagreement: Bull sees automotive tailwinds offsetting smartphone weakness + value upside to $167.35. Bear sees revenue guidance concerns and competitive erosion making P/E of 25.89 unjustified. Key data point: automotive growth (30%+) vs smartphone market saturation."
+    },
+    "trader_investment_decision": "ANALYSIS: Automotive growth thesis is real (+30% YoY) but smartphone headwinds are material. Analyst consensus 'Buy' with $167.35 target implies 31% upside. However, 8.5% YTD decline suggests market losing conviction. Revenue guidance concerns are red flag. RECOMMENDATION: Strong Buy position at $128 offers asymmetric risk/reward if automotive growth accelerates and smartphone stabilizes. **FINAL TRANSACTION PROPOSAL: BUY** (confidence: 75%)",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive analyst sees maximum upside from QCOM. Bullish on catalysts, comfortable with risk.",
+      "conservative_history": "Conservative analyst sees downside risks in QCOM. Emphasizes capital preservation.",
+      "neutral_history": "Neutral analyst balances bull/bear views on QCOM.",
+      "history": "Three perspectives on QCOM risk profile create balanced view.",
+      "judge_decision": "Rating: SPECULATIVE GROWTH | Aggressive view: Smartphone stabilization + automotive acceleration creates 30%+ return potential. Conservative view: Revenue guidance deterioration + P/E of 25.89 at cycle peak. Neutral: Position sizing should reflect 50/50 earnings risk, 3-5 year horizon justified."
+    },
+    "investment_plan": "Structured approach to QCOM with position sizing, time horizon, and risk management aligned to thesis.",
+    "final_trade_decision": "Portfolio Manager Decision for QCOM\n\nRating: Buy (Analyst Consensus)\nPrice Target: $167.35\nCurrent Price: $128.0\nUpside/Downside: 30.7%\n\nThesis: QCOM presents growth opportunity. Technical + fundamental analysis support BUY recommendation. Time horizon: 12-18 months.\n\nConclusion: Execute position consistent with portfolio risk tolerance and time horizon."
+  }
+}

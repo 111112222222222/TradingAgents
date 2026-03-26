@@ -1,0 +1,7 @@
+{
+  "ticker": "TD",
+  "date": "2026-01-31",
+  "llm_provider": "openai",
+  "deep_think_llm": "gpt-4o-mini",
+  "quick_think_llm": "gpt-4o-mini"
+}

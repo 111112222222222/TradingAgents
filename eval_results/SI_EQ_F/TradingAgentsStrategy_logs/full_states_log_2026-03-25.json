@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "SI=F (Silver Futures)",
+    "trade_date": "2026-03-25",
+    "market_report": "Silver at $31.45, +1.1% on day. 90K contracts volume (lighter than gold). Gold/Silver ratio 75.8 (historically high, favors silver). Industrial demand improving. Speculators net long.",
+    "sentiment_report": "Silver sentiment positive on gold strength, industrial recovery (solar/panels), and undervaluation vs gold. Some bearish technicians see resistance overhead.",
+    "news_report": "Silver: Industrial demand steady (semiconductors, solar); jewelry recovering; ETF inflows noted.",
+    "fundamentals_report": "Silver supply constrained by mine production. Industrial demand (photovoltaics, electronics) growing 5% annually. Gold/Silver ratio 75.8 is high\u2014silver undervalued relative to gold historically (~50-60 normal).",
+    "investment_debate_state": {
+      "bull_history": "Bull: Silver massively undervalued vs gold (ratio 75.8 vs 55 historical). Industrial demand secular growth. ETF inflows building. $40+ target justified.",
+      "bear_history": "Bear: Silver is more volatile than gold; if risk-off, underperforms. Ratio high for reason\u2014gold better hedge. Supply concerns overblown.",
+      "history": "Relative valuation debate.",
+      "current_response": "Judge: Silver's G/S ratio supports upside. But industrial demand growth already priced. Leveraged to gold; not independent catalyst.",
+      "judge_decision": "Mild bullish bias. Silver suitable for tactical allocation; better upside vs gold if industrial recovery accelerates."
+    },
+    "trader_investment_decision": "Trader: Silver trend up, but no strong technical setup. Momentum moderate. **FINAL TRANSACTION PROPOSAL: HOLD / BUY on dips** (use SLV ETF vs futures for portfolio)",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive: Ratio mean-reversion target $40+; go long.",
+      "conservative_history": "Conservative: Too volatile; stick with gold.",
+      "neutral_history": "Neutral: 1-2% SLV tactical position.",
+      "history": "Volatility and correlation.",
+      "judge_decision": "Rating: HOLD (tactical buy on dips) | Sizing: 1-2% via SLV | Horizon: 3-6 months | Risk: 3/5. Triggers: (1) ratio below 70, (2) ratio above 80 (sell), (3) industrial demand falls, (4) inflation spike (buy), (5) gold correction."
+    },
+    "investment_plan": "PM: Silver tactical position for ratio mean-reversion. 1-2% sizing respects volatility.",
+    "final_trade_decision": "RATING: HOLD (tactical long) | ACTION: Buy on dips below $30 | SIZING: 1-2% via SLV | RISK LEVEL: 3/5 | HORIZON: 3-6 months | THESIS: G/S ratio extreme; industrial demand. CONCLUSION: Tactical bet on ratio compression."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "BYND",
+  "date": "2026-03-26",
+  "runId": "BYND-2026-03-26",
+  "provider": "xai",
+  "deep_model": "grok-2",
+  "quick_model": "grok-2",
+  "analysts": [
+    "market",
+    "social",
+    "news",
+    "fundamentals"
+  ],
+  "max_debate_rounds": 1,
+  "started_at": "2026-03-26T04:47:50.916Z"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "AMD",
+  "date": "2026-03-23",
+  "runId": "AMD-2026-03-23",
+  "provider": "openai",
+  "deep_model": "gpt-4o-mini",
+  "quick_model": "gpt-4o-mini",
+  "analysts": [
+    "market",
+    "social",
+    "news",
+    "fundamentals"
+  ],
+  "max_debate_rounds": 1,
+  "started_at": "2026-03-24T06:20:03.233Z"
+}

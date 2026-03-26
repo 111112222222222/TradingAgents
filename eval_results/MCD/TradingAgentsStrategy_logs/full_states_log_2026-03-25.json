@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "MCD",
+    "trade_date": "2026-03-25",
+    "market_report": "McDonald's (MCD) trades at $307.84, -0.72% on March 25. Market cap $105B. P/E 27.5x. 2026 guidance: 2,600 new stores, 2.5% system-wide sales growth, $3.7-3.9B capex. 28 analysts rated Buy with PT $342.21 (+9.5% upside). Revenue $26.88B (TTM), EBITDA $14.6B.",
+    "sentiment_report": "Sentiment neutral as market digests aggressive expansion guidance. Digital ordering/app success supporting margins. International markets (especially China recovery) driving optimism. Labor cost concerns offset by pricing power. Franchise model provides visibility.",
+    "news_report": "2,600 store openings target reflects confidence in emerging market demand. Digital ordering now 25-30% of orders in developed markets. China recovery narrative gaining traction. Labor cost pressures mitigated by pricing actions. Technology initiatives (AI ordering) in pilot phase.",
+    "fundamentals_report": "2026 guidance implies 3-5% comparable sales growth from 2.5% forecast. Revenue growth from store additions (3-4%) plus pricing (2-3%). EBITDA margin stable 50%+ given franchise model. Capex/revenue 12-13% (moderate for growth). Strong FCF generation supporting buybacks/dividend. Expansion capex ROI 6-8 years in EM markets.",
+    "investment_debate_state": {
+      "bull_history": "BULL ROUND 1: 1) Store expansion 2,600 units = 3-4% revenue growth 2) Digital ordering scale ($400M+ annual revenue) 3) China recovery accelerating 4) Pricing power proven in developed markets 5) Franchise model provides margin visibility 6) Capital allocation (buybacks) accretive",
+      "bear_history": "BEAR ROUND 1: 1) Valuation not cheap at 27.5x forward PE 2) Capex ROI unproven in uncertain macro 3) Labor cost inflation ongoing in developed markets 4) China competition intense (Dicos, local chains) 5) Comparable sales growth slowing (2.5% guidance) 6) Franchise relationship risks in key markets",
+      "history": "Investment debate: Bull vs Bear perspectives presented",
+      "current_response": "MCD fair value $320-340 (28-30x forward on 4-5% growth) suggests analyst PT $342 is reasonable. Bull case: 2,600 store plan and digital scaling supporting 4-5% growth; bear case: macro uncertainty and labor costs limiting comp growth to 2.5%. Valuation reasonable for quality, scale, and capital allocation track record. Key variable: store productivity (unit-level comp growth vs. new unit cannibalization).",
+      "judge_decision": "MCD fair value $320-340 (28-30x forward on 4-5% growth) suggests analyst PT $342 is reasonable. Bull case: 2,600 store plan and digital scaling supporting 4-5% growth; bear case: macro uncertainty and labor costs limiting comp growth to 2.5%. Valuation reasonable for quality, scale, and capital allocation track record. Key variable: store productivity (unit-level comp growth vs. new unit cannibalization)."
+    },
+    "trader_investment_decision": "HOLD - Valuation fair at 27.5x but not cheap. Expansion plan credible but capex ROI in macro slowdown uncertain. Analyst PT $342 (+9.5%) offers modest upside with risks balanced. Better entry on 10% pullback to $275-285. **FINAL TRANSACTION PROPOSAL: HOLD** - Hold for dividend/buyback accretion; accumulate on weakness below $290.",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive bull case on 1) Store expansion 2,600 units = 3-4% revenue growth 2) Digital ordering scale ($400M+ annual revenue) 3) China recovery accelerating 4) Pricing power",
+      "conservative_history": "Conservative bear case on 1) Valuation not cheap at 27.5x forward PE 2) Capex ROI unproven in uncertain macro 3) Labor cost inflation ongoing in developed markets 4) China comp",
+      "neutral_history": "Neutral balanced risk view presented",
+      "history": "Risk analysis across scenarios",
+      "judge_decision": "MCD Risk Rating: 3.0/5.0 | Position Sizing: 3-4% | Key Risks: Labor costs, expansion ROI, macro slowdown | Conclusion: Hold for stable growth and capital returns. Fair value $320-340. 2,600 store plan credible but execution risk in slowdown. Key catalyst: comparable sales tracking ahead of 2.5% guide."
+    },
+    "investment_plan": "Portfolio Manager: MCD | Rating: 3.0/5.0 | Action: Hold for stable growth and capital returns. Fair value $320-340. 2,600 store pla... | Sizing: 3-4% | Thesis: Hold for stable growth and capital returns. Fair value $320-340. 2,600 store plan credible but execution risk in slowdown. Key catalyst: comparable sales tracking ahead of 2.5% guide.",
+    "final_trade_decision": "Hold for stable growth and capital returns. Fair value $320-340. 2,600 store plan credible but execution risk in slowdown. Key catalyst: comparable sales tracking ahead of 2.5% guide."
+  }
+}

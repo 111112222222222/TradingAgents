@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "IWM",
+    "trade_date": "2026-03-25",
+    "market_report": "IWM trading ~$210 (Russell 2000 ETF). Assets $68.67B, 1,922 holdings, top 10 = 5.82%. Sector: Healthcare 17.56%, Industrials 16.84%, Financials 15.65%, Tech 15.16%. Diversified small-cap exposure. Beaten down but value entry.",
+    "sentiment_report": "Cautious. Small-caps underperformed large-caps in 2025-2026 due to rate sensitivity and profitability concerns. Sentiment turning: value positioning attractive after underperformance. Low dispersion (top 10 only 5.82% of fund) suggests opportunity.",
+    "news_report": "Russell 2000 beaten down by rising rate fears, recession concerns. However, earnings growth cycle could favor smaller cap cyclicals if macro stabilizes. Earnings season commentary on small-cap health key.",
+    "fundamentals_report": "Small-cap index ETF: diversified across healthcare, industrials, financials, tech. Average market cap $1-5B. Higher growth potential than large-cap (8-10% earnings growth vs 5-6%), more cyclical. Lower valuation multiples.",
+    "investment_debate_state": {
+      "bull_history": "1) Valuation attractive: Small-cap P/E discount to large-cap at 13-14x vs 16x S&P 500; earnings growth higher (8-10% vs 5%). 2) Economic sensitivity: Cyclical upside if macro stabilizes; small-caps benefit from infrastructure spending, M&A recovery. 3) Earnings growth: Earnings growth 10-12% possible vs 5% large-cap. 4) Dividend yield: 1.5-2% yield; lower payout ratios than large-cap (room for growth). 5) Sector diversity: Broad exposure to healthcare, industrials, tech mitigates single-sector risk.",
+      "bear_history": "1) Recession risk: Small-caps highest recession beta; credit stress, margin pressure in downturn. 2) Earnings growth uncertain: Guidance weak from recent earnings; margin pressure evident. 3) Valuation multiple compression: Discount to large-cap (13-14x vs 16x) could widen further. 4) Liquidity risk: Lower liquidity vs large-cap; bid-ask spreads wider. 5) Momentum negative: Technical breakdown from highs; earnings revisions negative.",
+      "history": "Bull thesis vs Bear thesis debate presented",
+      "current_response": "Recession odds priced in; technical support holds. Valuation already discounted small-cap risk. Earnings growth surprise possible on cyclical recovery. Healthcare (18% allocation) defensive anchor.",
+      "judge_decision": "IWM presents contrarian opportunity. Small-cap underperformance has created valuation opportunity; 13-14x P/E discount justified but not extreme. Key decision: Will macro stabilize Q2 2026, unlocking cyclical upside? Evidence mixed (rate cuts not yet evident, corporate guidance cautious). At current valuation, IWM offers 15-20% upside if recession avoided; 20-25% downside if recession hits. **RECOMMENDATION: HOLD; BUY small position (1-2%) on break below $200 (support); PT $240-250 by EOY if cyclical stabilizes.**"
+    },
+    "trader_investment_decision": "IWM in established downtrend from 2024 highs. Support near $200 (200-day MA). Resistance $225. RSI moderate (40-45), not yet oversold. MACD negative, volume declining on down days = weak selling. Chart suggests $200-210 range for now; break below $200 signals move to $180-190. On bounce to $225, trim position. **FINAL TRANSACTION PROPOSAL: HOLD; BUY on $195-200 support (1-2% position); SELL above $225 (take partial profits)**",
+    "risk_debate_state": {
+      "aggressive_history": "1) Macro stabilizes; recession risks fade. 2) Small-cap earnings growth surprises to 12-15%. 3) Cyclical rotation from mega-cap into small-cap; P/E multiple expands to 15-16x. 4) Fed rate cuts lower discount rate; valuations expand. 5) M&A activity accelerates; premiums paid.",
+      "conservative_history": "1) Recession hits; small-cap earnings fall 10-15%. 2) Credit stress impairs financing; margin compression. 3) P/E multiple compresses to 11-12x. 4) Valuation discount to large-cap widens. 5) Dividend cuts; cash flow stress.",
+      "neutral_history": "Risk considerations presented",
+      "history": "Risk debate between aggressive and conservative scenarios",
+      "judge_decision": "Rating: **HOLD (with BUY on weakness)**. Position Sizing: 1-2% on $195-200 support break for cyclical exposure. Risk Levels: Support $180, Intermediate Target $225, Primary Target $240-250. Time Horizon: 12 months for macro clarity. Thesis: Small-cap valuation attractive on earnings growth + cyclical recovery; but macro uncertainty elevated; wait for technical support test. Conclusion: IWM is tactical opportunity; hold vs build positions."
+    },
+    "investment_plan": "Rating: HOLD (upgrade to BUY on $195-200 support). Action: Hold current small-cap exposure; accumulate 1-2% on dips to $195-200 if technical support confirmed. Position Sizing: 2-3% max for cyclical exposure. Risk Levels: Support $180, Intermediate Target $225, Primary Target $240-250. Time Horizon: 12 months. Thesis: Small-cap discount to large-cap justifies accumulation; but macro overhang warrants patience. Conclusion: IWM is tactical opportunity for cyclical recovery thesis.",
+    "final_trade_decision": "HOLD. **RATING: HOLD (upgrade to BUY on $195-200 support)**. **ACTION: Accumulate on weakness below $200**. **SIZING: 1-2% of portfolio**. **RISK LEVELS: Support $180, Target $240-250**. **HORIZON: 12 months**."
+  }
+}

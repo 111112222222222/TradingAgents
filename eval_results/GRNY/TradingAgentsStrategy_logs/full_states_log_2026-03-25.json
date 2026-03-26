@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "GRNY (Greenpro Capital Corp)",
+    "trade_date": "2026-03-25",
+    "market_report": "GRNY at $12.30, +1.5% on day. 0.8M volume light. Small-cap fintech play (payment processing, blockchain). P/E undefined (recent losses). Book value low.",
+    "sentiment_report": "GRNY sentiment mixed; fintech enthusiasm offset by execution concerns. Insider ownership strong (positive signal). No major analyst coverage.",
+    "news_report": "GRNY: Recently pivoted to fintech/blockchain services. Partnerships announced. Losses continue but narrowing YoY.",
+    "fundamentals_report": "GRNY revenues growing 40%+ YoY but losses still present. Balance sheet tight (cash ~$2M). Burn rate manageable. No dividend. Valuation binary (turnaround vs eventual dilution).",
+    "investment_debate_state": {
+      "bull_history": "Bull: Early-stage fintech with growth trajectory. Insider ownership signal of conviction. Blockchain exposure thematic. Microcap upside potential if turnaround succeeds.",
+      "bear_history": "Bear: Still unprofitable. Micro-cap liquidity poor. Dilution risk high (capital needs). Execution track record unproven. Better fintech plays exist.",
+      "history": "Binary turnaround bet vs proven business model.",
+      "current_response": "Judge: GRNY speculative microcap. Thesis reasonable but execution risk extreme. Suitable only for risk-capital allocation.",
+      "judge_decision": "Speculative rating. High risk, high reward. Position sizing must be tiny."
+    },
+    "trader_investment_decision": "Trader: GRNY chart shows support at $11, resistance $13.50. Volume thin. No strong technical setup. **FINAL TRANSACTION PROPOSAL: HOLD / SMALL SPEC BUY** (only for risk-tolerant investors, <1% position)",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive: Microcap fintech upside; 1% GRNY position for lottery.",
+      "conservative_history": "Conservative: Avoid entirely. Execution risk extreme.",
+      "neutral_history": "Neutral: <0.5% spec position if thesis believed.",
+      "history": "Risk tolerance.",
+      "judge_decision": "Rating: HOLD (spec BUY for risk-capital) | Sizing: <0.5% | Horizon: 2-3 years | Risk: 5/5. Triggers: (1) profitability achieved (trim), (2) dilution announced (exit), (3) funding fails, (4) blockchain adoption accelerates."
+    },
+    "investment_plan": "PM: GRNY not suitable for most portfolios. Venture-stage execution risk. Avoid.",
+    "final_trade_decision": "RATING: HOLD (spec BUY for risk-capital only) | ACTION: Avoid or <0.5% spec | SIZING: <0.5% max | RISK LEVEL: 5/5 | HORIZON: 2-3 years | THESIS: Early-stage fintech turnaround. CONCLUSION: Binary outcome; avoid for core portfolios."
+  }
+}

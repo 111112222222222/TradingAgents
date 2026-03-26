@@ -1,0 +1,27 @@
+{
+  "2026-03-24": {
+    "company_of_interest": "AMAT",
+    "trade_date": "2026-03-24",
+    "market_report": "AMAT Price: $337.27 | Change: -14.5% | P/E: 40.75 | Target: $428.84 | 52W Range: $250-$394.95",
+    "sentiment_report": "Bullish - elevated valuation but strong demand",
+    "news_report": "All-time high $394.95 on Feb 25; P/E up 79% from 4Q avg",
+    "fundamentals_report": "Market Cap: $330B | P/E: 40.75 | Volume: 6.8M shares | Consensus: Buy",
+    "investment_debate_state": {
+      "bull_history": "Semiconductor demand remains strong despite inventory cycles. All-time high of $394.95 shows upside potential. Analyst target of $428.84 implies 27% further upside. Market leadership position durable.",
+      "bear_history": "P/E of 40.75 is extended and up 79% from 4Q average. Semiconductor cycles are cyclical\u2014correction risk elevated. Stock down 14.5% from February peak. Inventory corrections could impact near-term.",
+      "history": "Bull case emphasizes positive catalysts and valuation. Bear case highlights risks and technical weakness.",
+      "current_response": "Both sides present legitimate views on AMAT. Bull focuses on catalysts, bear on risks.",
+      "judge_decision": "Core disagreement: Bull sees semiconductor demand tailwinds + leadership position worth premium P/E of 40.75. Bear sees cyclical correction risk after Feb $394.95 peak + P/E up 79% from 4Q avg. Cycle timing critical."
+    },
+    "trader_investment_decision": "ANALYSIS: P/E 40.75 is extended, up 79% from 4Q average. Semiconductor leadership is real but valuation assumes perfect execution. 14.5% decline from Feb peak ($394.95) is normal correction. $428.84 analyst target has multiple expansion embedded. RECOMMENDATION: Buy on further weakness, trim near $380 resistance. **FINAL TRANSACTION PROPOSAL: BUY** (confidence: 70%)",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive analyst sees maximum upside from AMAT. Bullish on catalysts, comfortable with risk.",
+      "conservative_history": "Conservative analyst sees downside risks in AMAT. Emphasizes capital preservation.",
+      "neutral_history": "Neutral analyst balances bull/bear views on AMAT.",
+      "history": "Three perspectives on AMAT risk profile create balanced view.",
+      "judge_decision": "Rating: CYCLE PLAY | Aggressive: Semiconductor demand + leadership worth P/E premium. Conservative: 79% P/E increase in 4Q = froth, correction likely. Neutral: Dollar-cost average, expect volatility, 3-5 year hold."
+    },
+    "investment_plan": "Structured approach to AMAT with position sizing, time horizon, and risk management aligned to thesis.",
+    "final_trade_decision": "Portfolio Manager Decision for AMAT\n\nRating: Buy (Analyst Consensus)\nPrice Target: $428.84\nCurrent Price: $337.27\nUpside/Downside: 27.2%\n\nThesis: AMAT presents growth opportunity. Technical + fundamental analysis support BUY recommendation. Time horizon: 12-18 months.\n\nConclusion: Execute position consistent with portfolio risk tolerance and time horizon."
+  }
+}

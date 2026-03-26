@@ -1,0 +1,27 @@
+{
+  "2026-03-24": {
+    "company_of_interest": "USDCAD=X",
+    "trade_date": "2026-03-24",
+    "market_report": "USD/CAD 1.3650, +0.33% (+0.0045). Support 1.3600, resistance 1.3750. Above 200-day MA 1.3520. Policy divergence supporting USD (Fed 5.5%, BoC 4.25%).",
+    "sentiment_report": "USD strength persists: rate differential (Fed higher 125bps), risk-on tilt (weakness = risk-off), oil volatility (CAD commodity exposure). Positive USD bias Q2 2026.",
+    "news_report": "Fed maintaining restrictive stance (cuts expected later 2026). BoC already cutting (June 2024, now 4.25%). Divergence widening. Oil $84.50 supporting CAD but differential dominant.",
+    "fundamentals_report": "USD/CAD determined by: rate differential (main driver), oil prices (CAD sensitivity), risk sentiment (risk-off = USD strength). Current 1.3650 reflects 125bps rate premium to USD.",
+    "investment_debate_state": {
+      "bull_history": "Rate differential 125bps sustainable if BoC cuts faster. USD funding advantages. Oil volatility = flight to safety. Geopolitical = USD premium.",
+      "bear_history": "Oil to $90+ would support CAD (26% Canadian exports energy). BoC may pause if inflation stalls (CAD support). Rate differential narrows if Fed pivots faster (CAD support).",
+      "history": "BULL: Rate differential 125bps sustainable if BoC cuts faster. USD funding advantages. Oil volatility = flight to safety. Geopolitical = USD premium. | BEAR: Oil to $90+ would support CAD (26% Canadian exports energy). BoC may pause if inflation stalls (CAD support). Rate differential narrows if Fed pivots faster (CAD support).",
+      "current_response": "Bull: Rate differential 125bps sustainable if BoC cuts faster. USD funding advantages. Oil volatility = flight to safety. Geopolitical = USD premium. | Bear: Oil to $90+ would support CAD (26% Canadian exports energy). BoC may pause if inflation stalls (CAD support). Rate differential narrows if Fed pivots faster (CAD support).",
+      "judge_decision": "USD/CAD primarily rate differential driven. Both cases valid on Fed vs BoC paths."
+    },
+    "trader_investment_decision": "USD/CAD 1.3650 reflects policy divergence. US investors: CAD weakness tailwind for Canadian asset returns. Canadian: USD strength headwind. **FINAL TRANSACTION PROPOSAL: NEUTRAL - use as operational hedge, no speculative positioning**",
+    "risk_debate_state": {
+      "aggressive_history": "LONG USD/CAD to 1.38-1.40. Differential sustainable, Fed strong.",
+      "conservative_history": "FLAT USD/CAD. Geopolitical could support CAD.",
+      "neutral_history": "FLAT - use spot rates for operations, avoid speculation.",
+      "history": "AGGRESSIVE: LONG USD/CAD to 1.38-1.40. Differential sustainable, Fed strong. | CONSERVATIVE: FLAT USD/CAD. Geopolitical could support CAD. | NEUTRAL: FLAT - use spot rates for operations, avoid speculation.",
+      "judge_decision": "Consensus rate differential dominance. Disagreement sustainability/timing."
+    },
+    "investment_plan": "Rating: NEUTRAL (Operational Hedge) | Action: NEUTRAL - no speculative positioning | Sizing: Operational only (no proprietary exposure) | Horizon: Operational/tactical",
+    "final_trade_decision": "Rating: NEUTRAL (Operational Hedge) | Action: NEUTRAL - no speculative positioning | Position Size: Operational only (no proprietary exposure) | Risk Levels: BoC pause/hike if inflation stalls (MEDIUM), Oil surge to $90+ (MEDIUM), Fed cut acceleration (MEDIUM), Geopolitical CAD bid (LOW), Liquidity disruption (LOW) | Horizon: Operational/tactical | Thesis: USD/CAD driven by rate differential. Rate-risk-neutral positioning appropriate. | Conclusion: Avoid speculative positions. Use spot rates for operations only. Differential likely narrows 2026 as BoC cuts sustain. No compelling directional view supports positioning."
+  }
+}

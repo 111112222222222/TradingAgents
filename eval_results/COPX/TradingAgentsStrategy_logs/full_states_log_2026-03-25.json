@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "COPX (Global Copper Miners ETF)",
+    "trade_date": "2026-03-25",
+    "market_report": "COPX at $38.65, +2.8% on day. 1.8M volume steady. Holdings: Freeport-McMoran, First Quantum, Antofagasta. Copper price near 5-year highs (strength in LME copper). China demand recovery narrative building.",
+    "sentiment_report": "Copper sentiment bullish on energy transition (EV, renewables require 4x copper content), China stimulus expectations, and supply tightness. Some caution on slowdown in construction demand.",
+    "news_report": "Copper market: China policy support signals emerging; Peru labor disruptions resolved; new mines delayed (supply constraints); EV adoption accelerating.",
+    "fundamentals_report": "Copper demand secular driver: electrification / EV / renewables require 25-50 lbs per vehicle (vs 50 lbs in ICE car). Supply-demand balance tight. Miners highly profitable at $4.50+ copper prices.",
+    "investment_debate_state": {
+      "bull_history": "Bull: Copper secular bull driven by energy transition. Supply constrained (geopolitical, labor disputes). China stimulus tailwind. Copper prices sustain above $4.00/lb. COPX compounds earnings growth.",
+      "bear_history": "Bear: Copper has rallied 100%+ since 2020 lows. Construction demand slowing. Recession risk high\u2014copper will collapse. Better to own producers in developed regions (Teck, Barrick).",
+      "history": "Secular trend vs cyclical risk.",
+      "current_response": "Judge: Copper secular tailwinds undeniable (EV, renewables). But cycle matters\u2014recession would crater demand. Current valuations fair on 2-3 year outlook; risky on 1-year.",
+      "judge_decision": "Bullish bias for 12+ month investors; neutral for traders. Suitable for diversified metal exposure."
+    },
+    "trader_investment_decision": "Trader: COPX breaking above $38 resistance; momentum +2.8% today. Daily chart bullish above 50-MA. Near-term target $41. **FINAL TRANSACTION PROPOSAL: BUY** (1-2 year core position, scale dips toward $36)",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive: 4-5% COPX; copper cycle early innings.",
+      "conservative_history": "Conservative: Keep under 2%; recession tail real.",
+      "neutral_history": "Neutral: 3% core position appropriate.",
+      "history": "Cycle and recession risk.",
+      "judge_decision": "Rating: BUY | Sizing: 3% | Horizon: 12-24 months | Risk: 4/5. Triggers: (1) copper price breaks $4.00, (2) recession confirmed, (3) China stimulus disappoints, (4) supply surge, (5) position up 30%."
+    },
+    "investment_plan": "PM: COPX core holding for copper exposure thematic. 3% sizing balanced. Average into weakness toward $36.",
+    "final_trade_decision": "RATING: BUY | ACTION: Initiate 3% core position | SIZING: 3% of portfolio | RISK LEVEL: 4/5 | HORIZON: 12-24 months | THESIS: Energy transition structural demand; tight supply. CONCLUSION: Long-term copper bull with cyclical pullback risk."
+  }
+}

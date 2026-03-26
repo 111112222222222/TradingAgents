@@ -1,0 +1,145 @@
+{
+  "analysis_date": "2026-03-24",
+  "analysis_type": "FULL_EQUITY_PIPELINE",
+  "tickers_analyzed": 5,
+  "pipeline_stages": 6,
+  "description": "Comprehensive equity analysis pipeline for 5 tickers with 6 stages: Data Collection, Investment Debate (2-round bull vs bear), Trader Decision, Risk Debate (aggressive/conservative/neutral), Final Trade Decision, JSON Output",
+  "tickers": {
+    "PM": {
+      "company": "Philip Morris International Inc.",
+      "file_path": "/sessions/vibrant-modest-edison/mnt/Trade monitor/TradingAgents/eval_results/PM/TradingAgentsStrategy_logs/full_states_log_2026-03-24.json",
+      "current_price": 163.24,
+      "market_cap_billions": 248.8,
+      "analyst_consensus": "BUY (13 Buy, 4 Hold, 0 Sell)",
+      "price_target": 202.50,
+      "upside_pct": 17.1,
+      "pe_trailing": 22.87,
+      "pe_forward": 19.16,
+      "dividend_yield_pct": 5.5,
+      "final_decision": "HOLD/BUY",
+      "position_size_pct": 2,
+      "risk_rating": "MODERATE"
+    },
+    "UNH": {
+      "company": "UnitedHealth Group Incorporated",
+      "file_path": "/sessions/vibrant-modest-edison/mnt/Trade monitor/TradingAgents/eval_results/UNH/TradingAgentsStrategy_logs/full_states_log_2026-03-24.json",
+      "current_price": 275.59,
+      "market_cap_billions": 250.15,
+      "analyst_consensus": "BUY (24 analysts)",
+      "price_target": 373.12,
+      "upside_pct": 35.0,
+      "pe_ratio": 20.82,
+      "dividend_yield_pct": 3.17,
+      "ytd_performance_pct": -18.0,
+      "yoy_performance_pct": -47.24,
+      "final_decision": "SELL/UNDERWEIGHT",
+      "position_size_pct": 0.5,
+      "risk_rating": "HIGH"
+    },
+    "WFC": {
+      "company": "Wells Fargo & Company",
+      "file_path": "/sessions/vibrant-modest-edison/mnt/Trade monitor/TradingAgents/eval_results/WFC/TradingAgentsStrategy_logs/full_states_log_2026-03-24.json",
+      "current_price": 77.60,
+      "market_cap_billions": 241.54,
+      "analyst_consensus": "BUY (15 Buy, 11 Hold, 0 Sell)",
+      "price_target": 95.00,
+      "upside_pct": 22.4,
+      "pe_ratio": 12.39,
+      "dividend_yield_pct": 2.5,
+      "q4_2025_eps_actual": 1.76,
+      "q4_2025_eps_estimate": 1.66,
+      "final_decision": "BUY/HOLD",
+      "position_size_pct": 2.5,
+      "risk_rating": "MODERATE"
+    },
+    "XLF": {
+      "company": "Financial Select Sector SPDR ETF",
+      "file_path": "/sessions/vibrant-modest-edison/mnt/Trade monitor/TradingAgents/eval_results/XLF/TradingAgentsStrategy_logs/full_states_log_2026-03-24.json",
+      "current_price": 49.59,
+      "ytd_performance_pct": -7.7,
+      "one_year_return_pct": 4.4,
+      "three_year_return_pct": 14.9,
+      "five_year_return_pct": 10.1,
+      "dividend_yield_pct": 2.8,
+      "52week_high": 56.52,
+      "52week_low": 42.21,
+      "technical_support_broken": 50.90,
+      "key_holdings": ["JPMorgan Chase", "Wells Fargo", "Goldman Sachs", "BlackRock"],
+      "final_decision": "HOLD/AVOID",
+      "position_size_pct": 0.5,
+      "risk_rating": "MODERATE_HIGH"
+    },
+    "XLE": {
+      "company": "Energy Select Sector SPDR ETF",
+      "file_path": "/sessions/vibrant-modest-edison/mnt/Trade monitor/TradingAgents/eval_results/XLE/TradingAgentsStrategy_logs/full_states_log_2026-03-24.json",
+      "current_price": 59.59,
+      "ytd_performance_pct": 27.0,
+      "dividend_yield_pct": 2.6,
+      "52week_high": 60.32,
+      "52week_low": 37.25,
+      "brent_crude_current": 103.0,
+      "wti_crude_current": 98.0,
+      "brent_crude_peak_march": 119.5,
+      "key_holdings": ["ExxonMobil", "Chevron", "ConocoPhillips", "EOG Resources"],
+      "fundamental_surplus_mbd": 3.2,
+      "fair_value_range": "55-58",
+      "final_decision": "HOLD/TRIM",
+      "position_size_pct": 1.5,
+      "risk_rating": "MODERATE"
+    }
+  },
+  "portfolio_recommendations": {
+    "aggressive": {
+      "PM": 3,
+      "WFC": 3,
+      "UNH": 0,
+      "XLF": 0,
+      "XLE": 0,
+      "cash": 91
+    },
+    "balanced": {
+      "PM": 2,
+      "WFC": 2.5,
+      "UNH": 0,
+      "XLF": 0,
+      "XLE": 1.5,
+      "cash": 94
+    },
+    "conservative": {
+      "PM": 2,
+      "WFC": 1,
+      "UNH": 0,
+      "XLF": 0,
+      "XLE": 0,
+      "cash": 97
+    }
+  },
+  "key_risk_factors": {
+    "fed_policy": "Market pricing 3 rate cuts vs Fed guidance 1 cut. Critical for WFC/XLF thesis",
+    "healthcare_policy": "Drug price negotiations, MA rate cuts structural margin pressure for UNH",
+    "oil_prices": "Geopolitical premium moderating; fundamental surplus 3.2M bbl/day structural headwind for XLE",
+    "yield_curve": "Near-inversion structural headwind to banking NIM. Critical for XLF/WFC",
+    "recession_risk": "15-20% probability priced in; leading indicators (curve, spreads) deteriorating"
+  },
+  "critical_monitoring_items": [
+    "Fed FOMC meetings (May, June 2026) for rate cut probability",
+    "Q1 2026 UNH earnings (late April) for medical cost trends",
+    "Medicare Advantage rate-setting (Q2 2026) for healthcare reimbursement clarity",
+    "Yield curve normalization (2s/10s spread target >75bps for banking upside)",
+    "Oil price trajectory (Brent target $85-100 range; XLE fair value $55-58)",
+    "WFC Q1 earnings (April 14) for NII guidance confirmation",
+    "Federal Reserve communication on inflation/rate outlook"
+  ],
+  "files_generated": 5,
+  "total_size_bytes": 38432,
+  "schema_version": "1.0",
+  "analyst_signatures": [
+    "Bull Analyst (Argument 1-2 for each ticker)",
+    "Bear Analyst (Counter-argument 1-2 for each ticker)",
+    "Judge (Reconciliation and core disagreement identification)",
+    "Aggressive Risk Analyst (High conviction, higher position sizing)",
+    "Conservative Risk Analyst (Capital preservation focus)",
+    "Neutral Risk Analyst (Balanced risk/reward)",
+    "Portfolio Manager (Final recommendation and sizing)"
+  ]
+}

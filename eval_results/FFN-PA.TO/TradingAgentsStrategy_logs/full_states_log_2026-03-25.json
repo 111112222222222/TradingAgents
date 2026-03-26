@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "FFN-PA.TO (First Asset Financial Income Preferred A, TSX)",
+    "trade_date": "2026-03-25",
+    "market_report": "FFN-PA.TO at $16.80 CAD, +0.5% on day. 0.4M volume light. Preferred share ETF (Canadian bank & insurance preferred shares). Distribution yield 5.6% (monthly ~$0.236/share CAD). Duration ~2-3 years.",
+    "sentiment_report": "Preferred share sentiment mixed; rate cycle uncertainty weighs. Income seekers active. Quality of distribution questioned by some analysts.",
+    "news_report": "FFN: No major news. Holdings stable (Big 5 bank preferreds, insurer preferreds).",
+    "fundamentals_report": "FFN distribution yield 5.6% represents 1.3-1.4% premium to senior debt. Credit quality good (Big 5 bank/insurance holdings). Dividend coverage stable. Capital preservation focus.",
+    "investment_debate_state": {
+      "bull_history": "Bull: FFN preferred shares offer 5.6% yield with safety of Big 5 bank/insurance sector backing. Rate cut cycle coming (prefer cuts). Call risk minimal. Defensive income.",
+      "bear_history": "Bear: Preferred yields compressed (not enough premium for risk). If rates rise further, prices compress. Floating-rate preferreds negative surprise risk. Better opportunities in bonds.",
+      "history": "Yield attractiveness vs rate cycle risk.",
+      "current_response": "Judge: FFN suitable for dividend income portfolios seeking Canadian bank/insurance exposure. Valuation fair; not compelling on 3-year outlook.",
+      "judge_decision": "Neutral rating. FFN appropriate for 3-5% income allocation; not tactical opportunity."
+    },
+    "trader_investment_decision": "Trader: FFN-PA.TO chart flat; no directional setup. Distribution attractive for income investors, not traders. **FINAL TRANSACTION PROPOSAL: HOLD / BUY for income** (core allocation for income-focused investors)",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive: 5% FFN; distribution grows.",
+      "conservative_history": "Conservative: 2-3% FFN; rate risk.",
+      "neutral_history": "Neutral: 3-4% income allocation.",
+      "history": "Income strategy.",
+      "judge_decision": "Rating: HOLD (income allocation) | Sizing: 3% | Horizon: Ongoing | Risk: 1/5. Triggers: (1) distribution cut, (2) rates spike, (3) call, (4) credit event, (5) portfolio rebalance."
+    },
+    "investment_plan": "PM: FFN-PA.TO core income holding. 3% allocation appropriate. Not tactical; long-term income.",
+    "final_trade_decision": "RATING: HOLD (core income) | ACTION: Maintain 3% | SIZING: 3% of portfolio | RISK LEVEL: 1/5 | HORIZON: Ongoing | THESIS: Canadian bank preferred income. CONCLUSION: Defensive income allocation; not tactical."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "BTC-USD (Bitcoin spot price)",
+    "trade_date": "2026-03-25",
+    "market_report": "Bitcoin at $69,850, +1.9% on day. 24h volume $24.5B. Market cap $1.38T. Volatility index (BVOL) at 42 (elevated). Support at $67K; resistance at $72K. RSI 58 (neutral). MACD positive but flattening.",
+    "sentiment_report": "Optimism on institutional adoption, ETF flows, and geopolitical hedging. Some profit-taking noted. Whale accumulation on dips. Fear index elevated due to macro uncertainty.",
+    "news_report": "Bitcoin: Institutional demand surging (MicroStrategy, Square holdings; ETF approvals); Asia mining recovery; Stablecoin regulations firming. Geopolitical premium estimated at 5-10% of valuation.",
+    "fundamentals_report": "Supply fixed at 21M. Current circulating supply ~21.4M. Halving event May 2024 reduced issuance 50%. On-chain metrics (MVRV, Puell Multiple) suggest fair value $65-75K range. Miners profitable at $55K+ floor.",
+    "investment_debate_state": {
+      "bull_history": "Bull: Bitcoin adoption S-curve early innings. Macro instability (geopolitical, fiscal) drives scarcity premium. ETF inflows establish new price floor. Technical breakout above $68K confirming trend. $100K+ target justified.",
+      "bear_history": "Bear: Crypto euphoria mirrors 2017 peak. Fundamentals divorced from price. Regulatory crackdowns possible. If equities crash 20%+, crypto follows. Better risk/reward in undervalued tradeable assets.",
+      "history": "Adoption narrative vs speculative cycle debate.",
+      "current_response": "Judge: Both cases have merit. Bitcoin institutional thesis stronger than 2017. But valuations stretched on long-term basis. Near-term momentum positive; longer-term uncertain.",
+      "judge_decision": "Neutral to bullish on momentum; cautious on fundamentals. Suitable for risk-tolerant portfolios with 2-3 year horizon."
+    },
+    "trader_investment_decision": "Trader: BTC spot price volatile but trend intact. Daily close above $69K bullish. Momentum traders eye $72K resistance; $67K support. **FINAL TRANSACTION PROPOSAL: LONG** (2-3 month swing trade, stop $66K, target $74K)",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive: Go long at $69.8K; target $85K (22% upside). Geopolitical premium expanding.",
+      "conservative_history": "Conservative: Too risky. Wait for pullback to $65K or avoid entirely.",
+      "neutral_history": "Neutral: Small long position with tight stops acceptable.",
+      "history": "Risk appetite and timeframe.",
+      "judge_decision": "Rating: BUY (swing trade) | Sizing: 3% max | Horizon: 2-3 months | Risk: 5/5. Triggers: (1) break below $66K (stop), (2) break above $74K (take profit), (3) regulatory ban (exit), (4) market crisis (exit), (5) funding rates spike (caution)."
+    },
+    "investment_plan": "PM: Bitcoin spot appropriate for tactical long via IBIT or direct purchase for investors 2-3 year horizon. Direct spot advantage: no fund fees. Disadvantage: custody complexity.",
+    "final_trade_decision": "RATING: BUY (tactical) | ACTION: Initiate swing trade | SIZING: 3% max | RISK LEVEL: 5/5 | HORIZON: 2-3 months | THESIS: Institutional adoption; geopolitical hedging; technical momentum. CONCLUSION: Tactical long with strict risk management."
+  }
+}

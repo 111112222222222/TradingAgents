@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "^TNX (10-Year Treasury Note Yield)",
+    "trade_date": "2026-03-25",
+    "market_report": "TNX (10Y yield) at 4.18%, +0.05% on day. Curve: 2Y at 4.35% (slightly inverted). 10Y implied forward rates suggest 2-3 rate cuts priced for 2026. Real yield ~1.3% (assuming 2.9% inflation).",
+    "sentiment_report": "Treasury market sentiment expecting Fed cuts mid-2026. Some concern over fiscal deficits limiting downside for long yields. Global central bank behavior supportive of yields.",
+    "news_report": "Treasury market: Inflation data (PCE +2.9% YoY) below 3.5% target; unemployment stable; Fed speakers maintain data-dependent stance.",
+    "fundamentals_report": "Fed Funds rate: 4.25-4.50%. Market pricing 2-3 cuts to 3.5% by year-end (25-50bp). 10Y at 4.18% reflects this expectation. Term premium elevated; bond market pricing recession probability ~25%.",
+    "investment_debate_state": {
+      "bull_history": "Bull: Yields likely to compress (3.5-4.0% by year-end) on Fed cuts. Current 4.18% offers entry point for 10Y longs. Bond rally underway; TLT/IEF upside.",
+      "bear_history": "Bear: Yields may stay sticky if inflation persists or if Fed cuts delayed. Fiscal deficits support higher long yields. 4.18% insufficient premium; wait for 4.50%+.",
+      "history": "Fed cut timing and inflation persistence.",
+      "current_response": "Judge: Treasury market pricing reasonable cut expectations. But timing uncertain. Current yields offer modest entry for long duration; not compelling.",
+      "judge_decision": "Neutral rating. TNX levels appropriate for bond allocation. No strong directional setup."
+    },
+    "trader_investment_decision": "Trader: TNX chart shows support at 4.00%, resistance at 4.40%. Trend sideways. No clear catalyst. **FINAL TRANSACTION PROPOSAL: HOLD / STRATEGIC LONG** (bonds suitable for 5-10% portfolio allocation; not tactical)",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive: Go long bonds; 3.5% target.",
+      "conservative_history": "Conservative: Wait for 4.50% yields.",
+      "neutral_history": "Neutral: 5-10% bond allocation via AGG/BND.",
+      "history": "Entry point and conviction.",
+      "judge_decision": "Rating: HOLD (strategic bond allocation) | Sizing: 5-10% | Horizon: 12+ months | Risk: 2/5."
+    },
+    "investment_plan": "PM: Bonds (via BND, AGG, or TLT) core allocation for diversification. 5-10% sizing appropriate. Scale into weakness as rates stay higher.",
+    "final_trade_decision": "RATING: HOLD (strategic allocation) | ACTION: Maintain 5-10% bonds | SIZING: 5-10% of portfolio | RISK LEVEL: 2/5 | HORIZON: 12+ months | THESIS: Diversification; Fed cut expectations. CONCLUSION: Core allocation, not tactical opportunity."
+  }
+}

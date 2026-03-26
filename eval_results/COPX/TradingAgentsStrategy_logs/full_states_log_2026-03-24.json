@@ -1,0 +1,27 @@
+{
+  "2026-03-24": {
+    "company_of_interest": "COPX",
+    "trade_date": "2026-03-24",
+    "market_report": "COPX Copper Miners ETF $38.75, +2.51% (+$0.95). Volume 5.2M shares. Copper spot $4.35/lb (5-year highs). Above 200-day MA $37.20, golden cross forming.",
+    "sentiment_report": "Bullish: green energy demand (grid, EVs), structural supply deficit, mining capex constraints. Institutional flows positive. Commodity technicals bullish.",
+    "news_report": "IEA forecasts 5M+ ton deficit through 2030 from transition. Chile production pressured (water/politics). Peru strikes. China stimulus on grid/infra supporting demand. ETF inflows strong.",
+    "fundamentals_report": "Market structurally undersupplied: 24M tons/yr demand, supply constrained by aging mines (Chile, Peru) + delays. Transition needs 10x more copper/MW. Mining costs rising (energy, labor). Growth 2-3% vs demand 4-5%.",
+    "investment_debate_state": {
+      "bull_history": "Supply deficit structural through 2030 from transition. Grid investment for renewables drives demand. Mining supply constrained by political/environmental pressures. China stimulus supporting. Technical: golden cross, above 200-day, positive momentum. Secular bull 10+ years.",
+      "bear_history": "$4.35/lb elevated on concerns; recession risk from demand destruction. China growth slowdown threatens 50% global demand. Substitution possible (aluminum). Production could surge if prices sustained, breaking deficit. Stretched.",
+      "history": "BULL: Supply deficit structural through 2030 from transition. Grid investment for renewables drives demand. Mining supply constrained by political/environmental pressures. China stimulus supporting. Technical: golden cross, above 200-day, positive momentum. Secular bull 10+ years. | BEAR: $4.35/lb elevated on concerns; recession risk from demand destruction. China growth slowdown threatens 50% global demand. Substitution possible (aluminum). Production could surge if prices sustained, breaking deficit. Stretched.",
+      "current_response": "Bull: Supply deficit structural through 2030 from transition. Grid investment for renewables drives demand. Mining supply constrained by political/environmental pressures. China stimulus supporting. Technical: golden cross, above 200-day, positive momentum. Secular bull 10+ years. | Bear: $4.35/lb elevated on concerns; recession risk from demand destruction. China growth slowdown threatens 50% global demand. Substitution possible (aluminum). Production could surge if prices sustained, breaking deficit. Stretched.",
+      "judge_decision": "Bulls emphasize structural deficit from transition. Bears highlight demand destruction + China dependency. COPX = leveraged green infrastructure capex + mining constraints. Technicals strong with golden cross."
+    },
+    "trader_investment_decision": "Copper fundamentals support long-term thesis. Momentum (+2.51%) reasonable entry despite recent strength. Recommend building 4-6% allocation. 5-10 year positioning justified by transition tailwinds. **FINAL TRANSACTION PROPOSAL: BUY 50% now, accumulate 50% on weakness to $37.50**",
+    "risk_debate_state": {
+      "aggressive_history": "8-10% allocation. Deficit structural, transition tailwinds, capex constraints.",
+      "conservative_history": "2-3% allocation. Elevated on sentiment. Wait $3.80/lb pullback.",
+      "neutral_history": "5-6% allocation. Balanced green infrastructure exposure. Golden cross solid. Build over time.",
+      "history": "AGGRESSIVE: 8-10% allocation. Deficit structural, transition tailwinds, capex constraints. | CONSERVATIVE: 2-3% allocation. Elevated on sentiment. Wait $3.80/lb pullback. | NEUTRAL: 5-6% allocation. Balanced green infrastructure exposure. Golden cross solid. Build over time.",
+      "judge_decision": "Aggressive accepts volatility for thesis. Conservative prioritizes discipline. Neutral captures with proper sizing."
+    },
+    "investment_plan": "Rating: BUY (Secular Growth) | Action: BUY 50% now, accumulate 50% on weakness | Sizing: 5-6% of equity allocation | Horizon: 5-10 years",
+    "final_trade_decision": "Rating: BUY (Secular Growth) | Action: BUY 50% now, accumulate 50% on weakness | Position Size: 5-6% of equity allocation | Risk Levels: Demand destruction (HIGH), China slowdown (MEDIUM), Supply surge (MEDIUM), Substitution (LOW), Geopolitical disruption (MEDIUM) | Horizon: 5-10 years | Thesis: Copper benefits from structural deficit + transition capex. Mining supply constrained by political/environmental pressures. Long-term secular bull. | Conclusion: Establish 5-6% core now $38.75. Monitor pullback $37.50-$38 for final tranche. Position for 5-10 year energy transition."
+  }
+}

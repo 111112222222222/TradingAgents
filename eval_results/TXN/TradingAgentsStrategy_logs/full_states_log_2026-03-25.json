@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "TXN",
+    "trade_date": "2026-03-25",
+    "market_report": "Texas Instruments (TXN) trades at $188.88, +0.31% on March 25. Q1 2026 guidance: revenue $4.32-4.68B, EPS $1.22-1.48, capex reduced $2-3B. Recent news: Acquisition agreement for Silicon Labs ($7.5B deal at $231/share). 23 analysts rated Hold, PT $209.74 (+11.0% upside).",
+    "sentiment_report": "Sentiment cautious given capex reduction guidance signaling macro uncertainty. Silicon Labs acquisition positive for analog/embedded processor mix. Hold consensus reflects wait-and-see posture on macro/acquisition integration.",
+    "news_report": "TXN acquiring Silicon Labs for $7.5B expanding analog/embedded processor portfolio. Deal expected to close H2 2026. Capex guidance reduced to $2-3B reflecting investment discipline in uncertain macro. Dividend sustained with modest growth.",
+    "fundamentals_report": "Q1 guidance EPS $1.22-1.48 implies 8-10% annual guidance. Reduced capex $2-3B suggests management preserving cash amid macro uncertainty. Silicon Labs deal adds $2B+ revenue but integration heavy near-term. Operating leverage limited in slow-growth environment.",
+    "investment_debate_state": {
+      "bull_history": "BULL ROUND 1: 1) Silicon Labs acquisition expands high-margin analog/embedded portfolio 2) Capex discipline preserving FCF for acquisition integration 3) Analog semiconductor secular growth 5-6% CAGR 4) Market share gains in automotive/industrial 5) Acquisition provides upside optionality 6) Capital discipline supports dividend",
+      "bear_history": "BEAR ROUND 1: 1) Valuation reasonable at 21.5x but limited upside without Silicon Labs synergy 2) Silicon Labs integration execution risk 3) Capex reduction signals macro weakness 4) Analog growth decelerating (historical 8-10% to 5-6%) 5) Acquisition timing uncertain (H2 2026 close) 6) Macro slowdown impacts industrial/automotive demand",
+      "history": "Investment debate: Bull vs Bear perspectives presented",
+      "current_response": "TXN fair value on fundamentals (21.5x PE) but Silicon Labs integration risk colors outlook. Bull case: acquisition adds $2B+ revenue and bolt-on growth. Bear case: integration heavy, capex discipline suggests caution. Fair value $200-220 (22-24x forward on 8-10% growth post-integration) suggests analyst PT $209.74 is reasonable. Key variable: Silicon Labs integration success and macro stability through deal close.",
+      "judge_decision": "TXN fair value on fundamentals (21.5x PE) but Silicon Labs integration risk colors outlook. Bull case: acquisition adds $2B+ revenue and bolt-on growth. Bear case: integration heavy, capex discipline suggests caution. Fair value $200-220 (22-24x forward on 8-10% growth post-integration) suggests analyst PT $209.74 is reasonable. Key variable: Silicon Labs integration success and macro stability through deal close."
+    },
+    "trader_investment_decision": "HOLD - Valuation fair at 21.5x with acquisition upside optionality. Capex reduction reflects prudent management. Hold consensus appropriate pending Silicon Labs integration clarity. **FINAL TRANSACTION PROPOSAL: HOLD** - Hold for acquisition upside; better entry on 10% weakness to $170 if macro deteriorates.",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive bull case on 1) Silicon Labs acquisition expands high-margin analog/embedded portfolio 2) Capex discipline preserving FCF for acquisition integration 3) Analog sem",
+      "conservative_history": "Conservative bear case on 1) Valuation reasonable at 21.5x but limited upside without Silicon Labs synergy 2) Silicon Labs integration execution risk 3) Capex reduction signals",
+      "neutral_history": "Neutral balanced risk view presented",
+      "history": "Risk analysis across scenarios",
+      "judge_decision": "TXN Risk Rating: 3.0/5.0 | Position Sizing: 3% | Key Risks: Integration execution, macro weakness, acquisition timing | Conclusion: Hold for analog exposure and acquisition upside. Fair value $200-220. Capex discipline reflects prudence. Key catalyst: Silicon Labs deal close and integration updates."
+    },
+    "investment_plan": "Portfolio Manager: TXN | Rating: 3.0/5.0 | Action: Hold for analog exposure and acquisition upside. Fair value $200-220. Capex disc... | Sizing: 3% | Thesis: Hold for analog exposure and acquisition upside. Fair value $200-220. Capex discipline reflects prudence. Key catalyst: Silicon Labs deal close and integration updates.",
+    "final_trade_decision": "Hold for analog exposure and acquisition upside. Fair value $200-220. Capex discipline reflects prudence. Key catalyst: Silicon Labs deal close and integration updates."
+  }
+}

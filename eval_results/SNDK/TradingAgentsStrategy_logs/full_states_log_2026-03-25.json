@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "SNDK",
+    "trade_date": "2026-03-25",
+    "market_report": "SNDK trading at ~$750 (down 6% on March 25 news re: $1B Nanya investment). Q2 FY2026: Revenue $3B (+61% YoY), margins 51.1% exceptional. Q3 guidance $4.4-4.8B revenue, $12-14 EPS, 65-67% margins. Analyst consensus: 14 of 20 Buy/Strong Buy, PT ~$770.",
+    "sentiment_report": "Bullish fundamentally, but news-driven volatility on Nanya investment concerns. Market worried about capital allocation shift (from shareholder returns to strategic investment). However, datacenter segment momentum (+76% YoY) is compelling. Analyst confidence high despite recent pullback.",
+    "news_report": "SanDisk announced $1B equity investment in Nanya Technology (Taiwan memory manufacturer). Designed to secure long-term memory supply. Datacenter segment surging (+76% YoY); hyperscaler qualifications expanding. AI infrastructure buildout accelerating.",
+    "fundamentals_report": "Semiconductor storage company. Q2 FY2026: Revenue $3B, gross margin 51.1%, EBITDA $1.5B+. ROIC 25-30%; ROE 20%+. Secular tailwinds: AI datacenters, SSDs, enterprise storage. Margin profile exceptional.",
+    "investment_debate_state": {
+      "bull_history": "1) Datacenter tailwind unstoppable: +76% YoY growth as hyperscalers (NVDA partners) deploy AI infrastructure. 2) Margin profile exceptional: 51.1% gross margin in Q2 proves pricing power + manufacturing efficiency. 3) Forward guidance strong: Q3 $4.4-4.8B revenue (midpoint +33% YoY) with 65-67% gross margin suggests acceleration. 4) AI secular trend: SNDK positioned as critical memory supplier. 5) Valuation: Nanya investment appears cheap insurance on supply chain.",
+      "bear_history": "1) Nanya investment dilutive: $1B capital could have been returned to shareholders (buyback/dividend); instead strategic bet on supply. 2) Supply chain risk remains: Even with Nanya stake, SNDK supply-constrained. 3) Competitive pressure: SK Hynix, Kioxia, WDC competing aggressively on AI memory. 4) Valuation rich: Q2 earnings growth (+61% revenue, margins 51%) may not sustain; 2027 growth could be 15-20% (vs 35-40% current). 5) Margin compression risk: As datacenter memory commoditizes, 65%+ margins compress to 55-60%.",
+      "history": "Bull thesis vs Bear thesis debate presented",
+      "current_response": "Nanya investment secures supply for decade; enables higher volumes without external capex. Margin durability backed by AI infrastructure capex cycle (3-5 years). Q3 guidance increase signals management confidence. Competitive moat strong due to process leadership.",
+      "judge_decision": "SNDK is best semiconductor story in watch list. Q2 +61% revenue growth + 51.1% margin is extraordinary. Q3 guidance raise confirms momentum (not one-time). Nanya $1B investment is smart capital deployment (supply chain insurance vs distributor margin). Market overreacting to capital allocation concern. Valuation at PT $770 reasonable on 40%+ revenue growth + 50%+ margins. **RECOMMENDATION: BUY on dips to $720-730; PT $850+ by EOY.**"
+    },
+    "trader_investment_decision": "SNDK down 6% on news (Nanya investment disappointment). Support near $720 (50-day MA). Resistance $770 (current PT). RSI oversold (~45) = buying opportunity. MACD positive, volume elevated on down day = capitulation likely complete. Chart suggests dip buy; break above $770 signals move to $850+. **FINAL TRANSACTION PROPOSAL: BUY on $720-730 dip (3-4% position); target $850+; stop $700**",
+    "risk_debate_state": {
+      "aggressive_history": "1) Datacenter AI capex continues accelerating; demand >supply. 2) Margin profile holds 50%+; pricing power sustained. 3) Nanya supply agreement proven valuable; enables volume growth. 4) EPS growth +30%+ sustainable through 2027. 5) Multiple expansion to 25-30x; PT hits $900-1000.",
+      "conservative_history": "1) AI datacenter buildout slower than expected; capex moderates. 2) Memory prices fall 20-30% as supply catches up; margin compression to 40%. 3) Competitive pressure from SK Hynix intensifies; market share loss. 4) Nanya investment requires capex; cash flow diverted. 5) PE multiple compresses to 10-12x; downside to $400-500.",
+      "neutral_history": "Risk considerations presented",
+      "history": "Risk debate between aggressive and conservative scenarios",
+      "judge_decision": "Rating: **STRONG BUY**. Position Sizing: 3-4% of portfolio on proven datacenter tailwinds. Risk Levels: Support $700, Intermediate Target $800, Primary Target $850-900. Time Horizon: 12-18 months for AI capex cycle. Thesis: Datacenter AI memory demand outpaces supply for 18+ months; SNDK margin profile durability; Nanya supply insurance justified. Conclusion: SNDK is core semiconductor position; accumulate on weakness."
+    },
+    "investment_plan": "Rating: STRONG BUY. Action: Accumulate 3-4% position on $720-730 dips; scale into rallies to $770. Position Sizing: 3-4% of portfolio. Risk Levels: Support $700, Intermediate Target $800, Primary Target $850-900. Time Horizon: 12-18 months. Thesis: Datacenter AI capex boom drives secular growth; SNDK margin leadership + supply constraints = pricing power; Nanya investment secures supply. Conclusion: SNDK is core semiconductor play for AI infrastructure buildout.",
+    "final_trade_decision": "STRONG BUY. **RATING: STRONG BUY**. **ACTION: Accumulate on $720-730 dips; scale into strength**. **SIZING: 3-4% of portfolio**. **RISK LEVELS: Support $700, Target $850-900**. **HORIZON: 12-18 months**."
+  }
+}

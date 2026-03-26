@@ -1,0 +1,27 @@
+{
+  "2026-03-24": {
+    "company_of_interest": "TD.TO",
+    "trade_date": "2026-03-24",
+    "market_report": "TD Toronto-Dominion Bank CAD$68.50, +0.66% (+$0.45). Volume 28.5M shares. Support CAD$67. Trading near 52-week midpoint. Canadian bank cyclical on BoC rates.",
+    "sentiment_report": "Neutral sentiment reflecting rate cycle inflection uncertainty. TD benefits from retail deposit franchise but faces NIM compression on declines. Credit quality concerns modest. Dividend yield 3.8% attractive vs 10-year 4.18%.",
+    "news_report": "BoC began cuts June 2024 (now 4.25%). Market pricing 150bps through 2026 (to ~2.75%). TD guidance suggests modest 2026 EPS growth as NIM compresses. Dividend payout 40% sustainable. Credit losses normalizing post-pandemic lows.",
+    "fundamentals_report": "TD: Canada's largest bank, P/E 10.2x (attractive), dividend yield 3.8%, ROE 12% (stable). Deposit beta low (rates stickier). NIM compression ~15-20bps per 100bps cuts. Rate cycle peak. Dividend well-covered, likely maintained/modest growth.",
+    "investment_debate_state": {
+      "bull_history": "Dividend yield 3.8% attractive vs 10-year 4.18% (parity). P/E 10.2x cheap vs US banks (12-13x). Deposits valuable in decline environment. Dividend growth as rates stabilize. Canadian growth (2-3%) supports lending.",
+      "bear_history": "NIM compression from cuts likely pressures EPS 5-10%. Credit cycle normalizing (losses rising as delinquency ticks). US cuts pressure Canadian rates. Deposits face competition (money market funds, GICs).",
+      "history": "BULL: Dividend yield 3.8% attractive vs 10-year 4.18% (parity). P/E 10.2x cheap vs US banks (12-13x). Deposits valuable in decline environment. Dividend growth as rates stabilize. Canadian growth (2-3%) supports lending. | BEAR: NIM compression from cuts likely pressures EPS 5-10%. Credit cycle normalizing (losses rising as delinquency ticks). US cuts pressure Canadian rates. Deposits face competition (money market funds, GICs).",
+      "current_response": "Bull: Dividend yield 3.8% attractive vs 10-year 4.18% (parity). P/E 10.2x cheap vs US banks (12-13x). Deposits valuable in decline environment. Dividend growth as rates stabilize. Canadian growth (2-3%) supports lending. | Bear: NIM compression from cuts likely pressures EPS 5-10%. Credit cycle normalizing (losses rising as delinquency ticks). US cuts pressure Canadian rates. Deposits face competition (money market funds, GICs).",
+      "judge_decision": "Both valid. TD positioned as defensive income, not growth. Cuts create dual pressure (NIM + credit) but dividend cushions. Neutral positioning appropriate."
+    },
+    "trader_investment_decision": "TD appropriate as dividend income core, not growth. 3.8% yield attractive for income portfolios. Near-term rate cut pressure but dividend protected. **FINAL TRANSACTION PROPOSAL: HOLD for income, accumulate on weakness toward CAD$67**",
+    "risk_debate_state": {
+      "aggressive_history": "8-10% allocation. Dividend yield + NIM recovery if cuts pause. Canadian bank defensiveness.",
+      "conservative_history": "5-6% allocation. Accept modest compression from cuts. Dividend safety priority.",
+      "neutral_history": "6-8% allocation. Balanced income + Canadian exposure. Accumulate on weakness.",
+      "history": "AGGRESSIVE: 8-10% allocation. Dividend yield + NIM recovery if cuts pause. Canadian bank defensiveness. | CONSERVATIVE: 5-6% allocation. Accept modest compression from cuts. Dividend safety priority. | NEUTRAL: 6-8% allocation. Balanced income + Canadian exposure. Accumulate on weakness.",
+      "judge_decision": "Conservative prioritizes dividend stability. Aggressive accepts NIM risk. Neutral balances both."
+    },
+    "investment_plan": "Rating: HOLD (Income) | Action: HOLD, accumulate on weakness toward CAD$67 | Sizing: 6-8% of portfolio | Horizon: 12-24 months",
+    "final_trade_decision": "Rating: HOLD (Income) | Action: HOLD, accumulate on weakness toward CAD$67 | Position Size: 6-8% of portfolio | Risk Levels: NIM compression (MEDIUM), Credit losses normalizing (MEDIUM), Deposit competition (MEDIUM), Dividend cut risk (LOW), Margin calls (LOW) | Horizon: 12-24 months | Thesis: TD provides defensive income via 3.8% dividend. Rate cycle headwinds likely but dividend protected. Attractive valuation 10.2x P/E. | Conclusion: Maintain 6-8% core income. Support CAD$67 offers accumulation opportunity. No capital appreciation expected; view as dividend core."
+  }
+}

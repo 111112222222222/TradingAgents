@@ -217,3 +217,7 @@ __marimo__/
 
 # Cache
 **/data_cache/
+
+# Dashboard runtime state (caches, logs, scanner state)
+.dashboard/
+.DS_Store

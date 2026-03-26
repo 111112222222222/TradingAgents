@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "USDCAD=X (USD/CAD Forex Pair)",
+    "trade_date": "2026-03-25",
+    "market_report": "USD/CAD at 1.3620, +0.3% on day. BOC overnight rate 4.25%; Fed funds 4.25-4.50% (rate differential supports USD slightly). Oil prices (CAD export driver) flat. Volatility normal (~4-5% annualized).",
+    "sentiment_report": "USD/CAD sentiment neutral; rate differentials balanced. Some risk-on appetite supports CAD (commodity/growth sensitivity). US fiscal deficits concern long-term USD strength.",
+    "news_report": "FX market: BOC considering cuts (similar to Fed). No major currency intervention. Oil/commodity prices stable. Trade relationships stable.",
+    "fundamentals_report": "Real interest rate differential: Fed ~+0.3% vs BOC (after inflation). Purchasing power parity suggests fair value 1.30-1.35. Current 1.36 slightly USD-strong. Oil prices (WTI $78) support CAD.",
+    "investment_debate_state": {
+      "bull_history": "Bull case USD: US rates staying higher longer; Fed more hawkish than BOC. US equity growth stronger. Dual deficit dynamics support USD. USD/CAD target 1.40+.",
+      "bear_history": "Bear case USD: BOC/Fed converging. Oil recovery supports CAD. US fiscal deficits weaken USD long-term. USD/CAD likely 1.30-1.32 target.",
+      "history": "Rate differential vs oil/commodity sensitivity.",
+      "current_response": "Judge: Rate dynamics balanced (Fed/BOC both at 4.25+). Oil prices support CAD. Current 1.3620 fair-valued. No strong directional bias near-term.",
+      "judge_decision": "Neutral rating. FX pair suitable for hedging only; not core allocation."
+    },
+    "trader_investment_decision": "Trader: USD/CAD chart sideways 1.35-1.37 range. No breakout. Technicals neutral. **FINAL TRANSACTION PROPOSAL: HOLD** (use for hedging Canadian portfolio only; not tactical FX trade)",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive: USD strength; 1.40 target.",
+      "conservative_history": "Conservative: CAD strength; 1.30 target.",
+      "neutral_history": "Neutral: Hold at fair value 1.36.",
+      "history": "Rate and commodity outlook.",
+      "judge_decision": "Rating: HOLD | Sizing: Hedge only | Horizon: N/A | Risk: 2/5."
+    },
+    "investment_plan": "PM: USD/CAD not core allocation. Use for hedging Canadian currency exposure if needed. Long CAD exposure (via Canadian equities/bonds) natural hedge.",
+    "final_trade_decision": "RATING: HOLD | ACTION: Use for FX hedging only | SIZING: 0% core allocation | RISK LEVEL: 2/5 | HORIZON: Tactical/Hedge | THESIS: Rate/commodity balance. CONCLUSION: FX pair; not suitable for core positioning."
+  }
+}

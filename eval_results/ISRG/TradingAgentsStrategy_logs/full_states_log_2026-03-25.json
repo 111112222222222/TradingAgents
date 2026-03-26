@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "ISRG",
+    "trade_date": "2026-03-25",
+    "market_report": "Intuitive Surgical (ISRG) trades at $471.91, -1.28% on March 25. P/E 59.81x (elevated). Technical pressure: RSI 38.05, 50-day MA $505.85, 200-day MA $509.44 both above price. MACD -7.83, ADX 32.47 (downtrend). Analyst PT $614.95 suggests 30% upside despite technical weakness.",
+    "sentiment_report": "Sentiment challenged by stretched valuation and technical deterioration. RSI 38.05 shows oversold conditions but MACD negative suggests more downside. Recent weakness creating value opportunity for long-term buyers. Upcoming April 28 earnings could provide catalyst.",
+    "news_report": "Robotic surgery adoption secular trend intact despite near-term macro uncertainty. Procedure volumes resilient in 2025. Surgeon training programs expanding globally. Competitive pressure from J&J (Ottava, Sedasys) and Medtronic. AI-enabled surgical capabilities in development.",
+    "fundamentals_report": "Estimated 2026 revenue growth 8-10% from volume (+6-8%) and mix (+2-3%). Gross margins 70%+ sustainable. Operating leverage expanding as volume scale improves. FCF generation strong, reinvestment in R&D 8-10% of revenue. Capital returns through buybacks. Valuation stretched at 59.81x for 8-10% growth.",
+    "investment_debate_state": {
+      "bull_history": "BULL ROUND 1: 1) Robotic surgery secular growth 10-12% CAGR 2) Market share gains from surgeon preference/outcomes 3) Procedure pricing power from reimbursement improvements 4) Competitive moat from installed base and training 5) Margin expansion from scale 6) Capital allocation balanced (reinvestment + buybacks)",
+      "bear_history": "BEAR ROUND 1: 1) Valuation extremely stretched at 59.81x for 8-10% growth 2) Technical deterioration signals institutional weakness 3) Competition intensifying from well-funded competitors 4) Procedure volume growth decelerating (8% vs. 12% historical) 5) Reimbursement pressure from healthcare cost concerns 6) Macro recession risk impacts elective procedures",
+      "history": "Investment debate: Bull vs Bear perspectives presented",
+      "current_response": "ISRG secular growth story valid but valuation at 59.81x is difficult to justify for 8-10% growth. Bull case: robotic surgery adoption acceleration and market share gains supporting multiple maintenance. Bear case: technical weakness and valuation compression risk if growth disappoints. Fair value $500-550 (45-50x forward on 10% growth) suggests 6-16% downside from current $472. Key variable: procedure volume growth acceleration and reimbursement stability.",
+      "judge_decision": "ISRG secular growth story valid but valuation at 59.81x is difficult to justify for 8-10% growth. Bull case: robotic surgery adoption acceleration and market share gains supporting multiple maintenance. Bear case: technical weakness and valuation compression risk if growth disappoints. Fair value $500-550 (45-50x forward on 10% growth) suggests 6-16% downside from current $472. Key variable: procedure volume growth acceleration and reimbursement stability."
+    },
+    "trader_investment_decision": "HOLD/SELL weakness - Valuation stretched (59.81x) and technical indicators negative (RSI 38, MACD -7.83). Better entry on further weakness to $420-450 range. Upside to analyst PT $615 requires 10%+ growth acceleration. Risk/reward unfavorable at current levels. **FINAL TRANSACTION PROPOSAL: HOLD on strength, BUY weakness** - Avoid at $472; consider accumulation at $420-450 for 12-month target $500-550.",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive bull case on 1) Robotic surgery secular growth 10-12% CAGR 2) Market share gains from surgeon preference/outcomes 3) Procedure pricing power from reimbursement imp",
+      "conservative_history": "Conservative bear case on 1) Valuation extremely stretched at 59.81x for 8-10% growth 2) Technical deterioration signals institutional weakness 3) Competition intensifying from",
+      "neutral_history": "Neutral balanced risk view presented",
+      "history": "Risk analysis across scenarios",
+      "judge_decision": "ISRG Risk Rating: 4.0/5.0 | Position Sizing: 2-3% | Key Risks: Valuation, technical deterioration, competition | Conclusion: Overvalued at 59.81x despite strong secular fundamentals. Technical weakness signals more downside. Fair value $500-550. Better entry points await on weakness. Upside requires procedure volume acceleration."
+    },
+    "investment_plan": "Portfolio Manager: ISRG | Rating: 4.0/5.0 | Action: Overvalued at 59.81x despite strong secular fundamentals. Technical weakness sig... | Sizing: 2-3% | Thesis: Overvalued at 59.81x despite strong secular fundamentals. Technical weakness signals more downside. Fair value $500-550. Better entry points await on weakness. Upside requires procedure volume acceleration.",
+    "final_trade_decision": "Overvalued at 59.81x despite strong secular fundamentals. Technical weakness signals more downside. Fair value $500-550. Better entry points await on weakness. Upside requires procedure volume acceleration."
+  }
+}

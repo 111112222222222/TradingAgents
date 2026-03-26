@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "NOW",
+    "trade_date": "2026-03-25",
+    "market_report": "ServiceNow (NOW) trades at $121.00, -5.0% on March 25 (sharp weakness). Estimated P/E 66x. Q1 revenue $3.57B (+21% YoY), subscription growth 21%, seat growth 25%. Analyst PT $202.70 (+67.5% upside). 30 analysts rated Strong Buy despite recent weakness.",
+    "sentiment_report": "Sentiment negative on AI-related market shifts and 5% one-day decline. However, Strong Buy consensus intact, suggesting dislocation opportunity. 21% revenue growth and 34% FCF margin support fundamentals. Analyst PT $202.70 far above current $121.",
+    "news_report": "ServiceNow reporting strong Q4/FY25 results: 21% subscription revenue growth, 25% seat growth. AI-driven workflow automation gaining adoption. Enterprise digital transformation secular trend intact. Recent 5% decline may create tactical opportunity.",
+    "fundamentals_report": "FY25 delivered 21% subscription revenue growth and high margins. 2026 guidance implies 15-18% subscription growth and 35%+ FCF margin. SaaS model with 75%+ gross margins. Operating leverage expanding as scale grows. Capital allocation through buybacks $1-2B annually.",
+    "investment_debate_state": {
+      "bull_history": "BULL ROUND 1: 1) Subscription growth 21% with 25% seat expansion 2) FCF margin 34% expanding as scale improves 3) Enterprise workflow automation secular growth 10%+ CAGR 4) Forward PEG 0.5 indicates reasonable valuation for growth 5) AI adoption accelerating use cases 6) Capital allocation disciplined",
+      "bear_history": "BEAR ROUND 1: 1) Valuation 66x PE stretched even for 21% growth 2) Recent 5% decline signals institutional weakness 3) Competition from Salesforce/SAP in enterprise workflows 4) Gross margin pressure from competitive intensity 5) Growth deceleration risk if capex spending slows 6) Execution risk on AI monetization",
+      "history": "Investment debate: Bull vs Bear perspectives presented",
+      "current_response": "NOW recent weakness (-5.0%) creates opportunity despite stretched valuation (66x PE). Bull case: 21% subscription growth and 25% seat expansion on enterprise automation secular trend. Bear case: valuation high for cyclical market exposure. Fair value $160-190 (45-55x forward on 18-20% growth) suggests analyst PT $202.70 requires 20%+ growth and multiple maintenance. Key variable: subscription growth sustainability and gross margin defense.",
+      "judge_decision": "NOW recent weakness (-5.0%) creates opportunity despite stretched valuation (66x PE). Bull case: 21% subscription growth and 25% seat expansion on enterprise automation secular trend. Bear case: valuation high for cyclical market exposure. Fair value $160-190 (45-55x forward on 18-20% growth) suggests analyst PT $202.70 requires 20%+ growth and multiple maintenance. Key variable: subscription growth sustainability and gross margin defense."
+    },
+    "trader_investment_decision": "BUY on weakness - 5% one-day decline creates tactical opportunity on Strong Buy consensus. Fundamentals remain strong (21% growth, 34% FCF margin). Analyst PT $202.70 (+67.5%) offers significant upside from current $121. **FINAL TRANSACTION PROPOSAL: BUY on weakness** - Strong Buy at $121 for 12-month target $160-190.",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive bull case on 1) Subscription growth 21% with 25% seat expansion 2) FCF margin 34% expanding as scale improves 3) Enterprise workflow automation secular growth 10%+",
+      "conservative_history": "Conservative bear case on 1) Valuation 66x PE stretched even for 21% growth 2) Recent 5% decline signals institutional weakness 3) Competition from Salesforce/SAP in enterprise",
+      "neutral_history": "Neutral balanced risk view presented",
+      "history": "Risk analysis across scenarios",
+      "judge_decision": "NOW Risk Rating: 3.5/5.0 | Position Sizing: 3-4% | Key Risks: Valuation, growth deceleration, competition | Conclusion: Strong Buy weakness. Fair value $160-190. Fundamentals strong despite market weakness. Key catalyst: 2026 subscription growth acceleration and AI adoption."
+    },
+    "investment_plan": "Portfolio Manager: NOW | Rating: 3.5/5.0 | Action: Strong Buy weakness. Fair value $160-190. Fundamentals strong despite market wea... | Sizing: 3-4% | Thesis: Strong Buy weakness. Fair value $160-190. Fundamentals strong despite market weakness. Key catalyst: 2026 subscription growth acceleration and AI adoption.",
+    "final_trade_decision": "Strong Buy weakness. Fair value $160-190. Fundamentals strong despite market weakness. Key catalyst: 2026 subscription growth acceleration and AI adoption."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "MRK",
+    "trade_date": "2026-03-25",
+    "market_report": "Merck (MRK) trading $114.18 as of March 20, 2026. Dividend $0.85/quarter ($3.40 annualized), yield 2.98%. Company announced $6.7B buyout of Terns Pharmaceuticals for cancer treatments - shows aggressive M&A. Stock near support level. Trading volume normal.",
+    "sentiment_report": "Sentiment: cautiously optimistic. Merck viewed as quality pharma with strong pipeline. M&A move viewed positively (cancer expansion story). However, pricing pressure concerns and litigation risks moderating enthusiasm. Coverage generally balanced.",
+    "news_report": "Recent coverage: (1) $6.7B acquisition of Terns Pharma (cancer treatments) - strategic expansion, (2) Dividend increase to $0.85/quarter announced (16-year streak), (3) Earnings date April 30, 2026 - near-term catalyst, (4) Pharma pricing pressure accelerating from governments, (5) Keytruda patent cliff approaching 2027-2028. Mixed signals.",
+    "fundamentals_report": "Large pharma company with diverse franchise. Annual dividend $3.40 (yield 2.98%). FCF generation funds dividend + M&A + buybacks. Growth rate 4-6% expected. Litigation tail risks (talc, opioid settlements) ongoing. Patent cliffs on major revenue drivers.",
+    "investment_debate_state": {
+      "bull_history": "BULL (Round 1): (1) Dividend 16-year streak sustainable, (2) Cancer franchise expansion (Terns acquisition) shows vision, (3) Keytruda franchise still growing despite patent cliff, (4) Pipeline depth strong, (5) M&A optionality demonstrating confidence, (6) Dividend yield 2.98% attractive.",
+      "bear_history": "BEAR (Round 1): (1) Dividend yield only 2.98% - signals valuation risk, (2) Keytruda patent cliff 2027-2028 - major revenue at risk, (3) Pharma pricing pressure accelerating, (4) Litigation tail risks (talc, opioids ongoing), (5) M&A (Terns) expensive - overpaying, (6) Growth rate decelerating.",
+      "history": "Bull Rebuttal: Dividend 2.98% sustainable - growth overlay not implied. Keytruda franchise post-patent cliff still strong. Terns acquisition strategic (cancer mix expansion). Pipeline compensates for cliff. M&A pricing reasonable. | Bear Rebuttal: 2.98% yield too low relative to pharma peers - market discounting growth. Keytruda revenue drops 50%+ post-patent cliff. Terns acquisition unproven - $6.7B expensive bet. Pharma pricing regulations tightening (IRA, Medicare negotiation).",
+      "current_response": "MRK patent cliff risk core debate. Bull thesis: Keytruda franchise durable, pipeline strong, Terns adds upside. Bear thesis: Patent cliff real, pricing pressure accelerating. Fair value: $120-135 (Bull) vs $95-110 (Bear). Evidence balanced - stock at fair value.",
+      "judge_decision": "MRK patent cliff risk core debate. Bull thesis: Keytruda franchise durable, pipeline strong, Terns adds upside. Bear thesis: Patent cliff real, pricing pressure accelerating. Fair value: $120-135 (Bull) vs $95-110 (Bear). Evidence balanced - stock at fair value."
+    },
+    "trader_investment_decision": "MRK quality pharma with patent cliff risk. Bull case: Dividend safe, pipeline strong, Terns adds upside. Bear case: Patent cliff approaching, growth deceleration coming. Evidence balanced - HOLD appropriate. **FINAL TRANSACTION PROPOSAL: HOLD (Market-weight for dividend)**",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive: Own MRK 3-4% for quality dividend. Patent cliff manageable. Terns upside material. $130+ target.",
+      "conservative_history": "Conservative: 1-2% maximum. Patent cliff risk real. Terns unproven. Pricing pressure accelerating.",
+      "neutral_history": "Neutral: 2.5% portfolio weight. Patent cliff manageable. Dividend sustainable. Fair value $115-125.",
+      "history": "Aggressive: Own MRK 3-4% for quality dividend. Patent cliff manageable. Terns upside material. $130+ target. | Conservative: 1-2% maximum. Patent cliff risk real. Terns unproven. Pricing pressure accelerating. | Neutral: 2.5% portfolio weight. Patent cliff manageable. Dividend sustainable. Fair value $115-125.",
+      "judge_decision": "Risk Rating: MARKET-WEIGHT. Position Sizing: 2.5% portfolio. Risk Triggers: (1) Keytruda revenue decline >20%, (2) Patent cliff earlier than expected, (3) Terns acquisition integrating poorly, (4) Dividend growth <3%, (5) Major litigation settlement announced. Time Horizon: 24-36 months."
+    },
+    "investment_plan": "HOLD for dividend income. Buy dips to $105-110. Target $120-130 on pipeline + dividend growth. Monitor Keytruda trends, patent cliff progression, and Terns integration. Earnings April 30, 2026 important catalyst.",
+    "final_trade_decision": "RATING: HOLD | ACTION: MAINTAIN POSITION | POSITION SIZING: 2.5% | KEY RISKS: (1) Keytruda patent cliff impact 2027-2028, (2) Pharma pricing regulation, (3) Litigation settlement costs, (4) Terns acquisition integration, (5) Dividend growth stalls | TIME HORIZON: 24-36 months | THESIS: Merck offers quality pharma dividend with robust pipeline and strategic M&A (Terns). Patent cliff manageable on pipeline depth. Dividend sustainable and growing. | CONCLUSION: Suitable for dividend + growth allocation. Target 7-8% total return (dividend 3% + price appreciation 4-5%). Hold position. Set stop at $85. Target $120-130. Monitor patent cliff progress and Terns execution quarterly."
+  }
+}

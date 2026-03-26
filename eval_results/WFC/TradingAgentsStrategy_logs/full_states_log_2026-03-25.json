@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "WFC",
+    "trade_date": "2026-03-25",
+    "market_report": "WFC trading at $80.39, range $79.33-80.74. Goldman Sachs PT $93 (down from $109); Buy rating maintained. Analyst consensus Buy (16 analysts). Average PT $100.52 (+25% upside). Basel III regulatory proposal overhang.",
+    "sentiment_report": "Mixed. Goldman PT cut from $109 to $93 signals near-term caution on regulatory capital requirements. Basel III proposal could increase capital needs $15-20B for large banks. But analyst consensus Buy + dividend (~4%) support floor. Regulatory uncertainty key driver.",
+    "news_report": "Fed released Basel III endgame proposals\u2014capital requirements may rise for global systemically important banks. WFC affected as one of 8 G-SIBs. PT cut by Goldman to $93 reflects higher capital needs. However, revenue generation capacity strong; FCF should accommodate higher requirements.",
+    "fundamentals_report": "Largest regional bank by assets. Revenue ~$95B (net interest margin sensitive). ROIC ~8-10%; ROE ~10-12%. Dividend 4-5% (well-covered by FCF). Liquidity strong. Core deposits stable. Capital ratio near regulatory minimums.",
+    "investment_debate_state": {
+      "bull_history": "1) Dividend yield: 4%+ yield is attractive vs S&P 500 2%; supported by $2.5B annual FCF. 2) Valuation: PT $100.52 implies 25% upside from current; reasonable given dividend + capital return. 3) Net interest margin: Higher for-longer rate environment supports NIM expansion. 4) Capital allocation: Buybacks + dividends return $3B+ annually. 5) Scale advantage: Asset size ($1.9T) provides earnings power despite regional focus.",
+      "bear_history": "1) Basel III capital requirements: Proposed changes could increase tier-1 capital needs 15-20% ($15-20B for WFC), constraining buybacks/dividends. 2) Rate sensitivity: If Fed cuts rates in H2 2026, NIM compression threatens earnings. 3) Credit deterioration: Recession could impair asset quality (commercial real estate, consumer credit). 4) Regulatory headwinds: Ongoing Fed concerns about WFC risk management practices. 5) Valuation: PT $100 implies 24x forward earnings\u2014rich for 5-6% FCF yield.",
+      "history": "Bull thesis vs Bear thesis debate presented",
+      "current_response": "Capital requirements digestible; WFC has raised $20B+ capital in recent years. NIM well-protected by sticky customer deposits. Credit metrics remain solid despite recession fears. Regulatory compliance improving under new CEO. Dividend coverage strong (2.0x+ payout ratio).",
+      "judge_decision": "WFC presents regulatory-driven opportunity. Goldman PT cut to $93 is conservative; PT $100+ more reasonable on dividend + capital return. Basel III impact real but manageable ($15-20B capital over 3-5 years). Key decision: Will Fed moderate capital requirements after review? If yes, PT $100-110 achievable. If stricter, PT $85-90. Current $80.39 offers margin of safety either way. **RECOMMENDATION: BUY on dips to $77-78; PT $100+ by EOY; dividend provides downside cushion.**"
+    },
+    "trader_investment_decision": "WFC consolidating after Basel III news. Support $78-80 (52-week range bottom), resistance $85. Volume declining = weak selling. Dividend yield 4% attracts income buyers. Chart suggests $80-85 range-bound; break above $85 signals move to $95-100. On bounce to $85, consider taking partial profits. **FINAL TRANSACTION PROPOSAL: HOLD (dividend position); BUY on $77-78 dips (1-2% position); SELL above $85 (take profits 30-50%)**",
+    "risk_debate_state": {
+      "aggressive_history": "1) Basel III capital requirements moderated by Fed. 2) NIM expansion continues; rates stay higher for longer. 3) Buybacks resume at higher pace ($2-3B annually). 4) Dividend growth 5-8% annually. 5) PE multiple expands to 12-13x; PT reaches $120+.",
+      "conservative_history": "1) Basel III requirements tightened; capital needs $20B+, constraining returns. 2) Fed cuts rates in H2 2026; NIM compression 50-100bps. 3) Credit deterioration in recession; loan loss reserves rise. 4) Buybacks suspended; dividend growth halted. 5) PE compresses to 8-9x; downside to $60-65.",
+      "neutral_history": "Risk considerations presented",
+      "history": "Risk debate between aggressive and conservative scenarios",
+      "judge_decision": "Rating: **BUY (income/value)**. Position Sizing: 1-2% for dividend yield + capital appreciation potential. Risk Levels: Support $75, Intermediate Target $85, Primary Target $100-110. Time Horizon: 12 months for regulatory clarity. Thesis: Dividend safety + capital return provide downside cushion; Basel III impact manageable; valuation reasonable. Conclusion: WFC is income/value play; accumulate on weakness."
+    },
+    "investment_plan": "Rating: BUY (value/income). Action: Initiate 1-2% position at current $80 level; scale to 2% on dips to $77-78. Position Sizing: 1-2% of portfolio. Risk Levels: Support $75, Intermediate Target $85, Primary Target $100-110. Time Horizon: 12 months. Thesis: Dividend yield 4% + capital allocation + regulatory clarity by year-end support price appreciation. Conclusion: WFC is core income position; buy weakness.",
+    "final_trade_decision": "BUY. **RATING: BUY (value/income)**. **ACTION: Initiate 1-2% position; accumulate on $77-78 dips**. **SIZING: 1-2% of portfolio**. **RISK LEVELS: Support $75, Target $100-110**. **HORIZON: 12 months**."
+  }
+}

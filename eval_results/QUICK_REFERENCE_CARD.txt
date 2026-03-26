@@ -1,0 +1,107 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║         EQUITY ANALYSIS PIPELINE - MARCH 25, 2026 - QUICK REFERENCE        ║
+║                          14 TICKERS ANALYZED                              ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+TOP BUYS (Best Risk/Reward):
+┌─────────────────────────────────────────────────────────────────────────┐
+│ 1. ABT  (105.31)  → $135-150 (+28-43%)  | Risk 2.5/5.0 | 5% sizing
+│    Thesis: Exact Sciences acquisition, lowest risk, valuation discount
+│
+│ 2. TMO  (490.77)  → $550-600 (+12-22%)  | Risk 3.0/5.0 | 4-5% sizing
+│    Thesis: Life sciences growth, acquisition accretion, Q2 beat potential
+│
+│ 3. IBM  (241.39)  → $300-330 (+24-36%)  | Risk 3.0/5.0 | 4-5% sizing
+│    Thesis: AI infrastructure, software expansion, $12.5B AI book
+│
+│ 4. ACN  (192.29)  → $230-250 (+19-30%)  | Risk 3.5/5.0 | 4% sizing
+│    Thesis: Cloud/AI acceleration, margin expansion, cheap valuation
+│
+│ 5. GE   (290.63)  → $340-360 (+17-24%)  | Risk 3.5/5.0 | 4% sizing
+│    Thesis: Aerospace supercycle, 737 MAX + defense spending
+└─────────────────────────────────────────────────────────────────────────┘
+
+STRONG HOLDS (Fairly Valued):
+┌─────────────────────────────────────────────────────────────────────────┐
+│ PEP  (150.59) → $155-165    | Defensive dividend, limited growth
+│ LIN  (483.49) → $500-520    | Industrial cycle, capex exposure
+│ MCD  (307.84) → $320-340    | Expansion ROI, mature margins
+│ TXN  (188.88) → $200-220    | Silicon Labs integration play
+└─────────────────────────────────────────────────────────────────────────┘
+
+TACTICAL BUYS (Momentum + Valuation Risk):
+┌─────────────────────────────────────────────────────────────────────────┐
+│ CSCO (78.50)  → $85-95      | AI networking +21%, capex cycle exposed
+│ INTU (423.84) → $480-550    | SaaS growth, P/E 28.5x stretched
+│ NOW  (121.00) → $160-190    | Workflow automation, P/E 66x risky
+└─────────────────────────────────────────────────────────────────────────┘
+
+REDUCE/AVOID (Overvalued):
+┌─────────────────────────────────────────────────────────────────────────┐
+│ ISRG (471.91) | P/E 59.81x, technical weakness (RSI 38, MACD -7.83)
+│               | Fair value $500-550; downside to $420-450 likely
+│
+│ AMGN (347.80) | P/E 45.1x, biosimilar headwinds ($2-3B LOE 2026-2027)
+│               | Hold ratio/Fair value $310-330; downside risk
+└─────────────────────────────────────────────────────────────────────────┘
+
+PORTFOLIO CONSTRUCTION (100% Allocation):
+┌─────────────────────────────────────────────────────────────────────────┐
+│ Quality Growth (40%)  → TMO, IBM, ACN, CSCO        [Core 12+ months]
+│ Value Growth (20%)    → ABT, TXN                   [Catalyst driven]
+│ Tactical Cyclicals (15%) → GE, INTU, NOW          [Earnings gated]
+│ Defensive Income (15%)   → PEP, MCD, LIN          [Stability anchor]
+│ Reduce/Caution (10%)     → ISRG, AMGN             [Wait for better entry]
+└─────────────────────────────────────────────────────────────────────────┘
+
+KEY CATALYSTS NEXT 90 DAYS:
+1. Q2 2026 Earnings (Apr-May): TMO, ACN, CSCO, IBM confirmation
+2. Exact Sciences Integration Progress (ABT)
+3. Boeing 737 MAX Production Ramp (GE)
+4. AI Monetization Proof Points (IBM, CSCO software growth)
+5. Silicon Labs Deal Closure Timeline (TXN)
+
+KEY RISKS NEXT 90 DAYS:
+1. Valuation Compression on Growth Misses (INTU, NOW, ISRG)
+2. Macro Slowdown Impacting Capex Cycle (GE, LIN, CSCO)
+3. Integration Execution (ABT Exact Sciences, TXN Silicon Labs)
+4. Biosimilar Competition (AMGN Prolia/MenB LOE)
+5. Technical Breakdown (ISRG toward $420-450)
+
+POSITION SIZING RULES:
+- Core Quality Growth: 4-5% (TMO, IBM)
+- Value Growth: 3-5% (ABT larger if high conviction)
+- Tactical/Cyclical: 3-4% (manage volatility)
+- Defensive/Income: 3-4% (portfolio stability)
+- Overvalued/Caution: 2-3% (reduce/avoid)
+
+ENTRY STRATEGIES:
+✓ ABT: Accumulate at <$105; target $110 entry
+✓ TMO: Add on dips below $485; target $470 entry
+✓ IBM: Scale in at <$240; accumulate <$225
+✓ ACN: Buy weakness <$190; accumulate <$185
+✓ GE:  Enter on dips to $280-285; accumulate <$280
+✓ ISRG: Wait for <$420-450 or above 200-day MA
+✓ NOW:  Only on <$105; avoid chase on strength
+
+EXIT STRATEGIES:
+✗ ISRG: Sell above $485 or below $420 (technical breaks)
+✗ AMGN: Reduce above $355; exit above $365
+✗ INTU: Take profits above $500; reduce above $480
+✗ NOW: Trim above $150; exit above $160 (valuation peak)
+
+REBALANCING FREQUENCY:
+Monthly: Review earnings revisions and technical signals
+Quarterly: Rebalance winners (reduce) and losers (add) per framework
+Semi-Annual: Strategic theme assessment and allocation review
+
+════════════════════════════════════════════════════════════════════════════
+
+SUMMARY STATISTICS:
+- Portfolio Risk Score: 3.2/5.0 (Moderate)
+- Expected 12-Month Return: +12-18% (base case)
+- Upside Scenario: +18-25% (growth > guidance)
+- Downside Scenario: -12-18% (recession + valuation compression)
+- Volatility Profile: Moderate-High (growth-heavy)
+
+════════════════════════════════════════════════════════════════════════════

@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "CKG.V (Checkers Gaming, TSX Venture)",
+    "trade_date": "2026-03-25",
+    "market_report": "CKG.V at $0.42 CAD, -2.1% on day. 1.2M volume volatile. Mining exploration play (North America). Illiquid microcap. No production. Financing risks.",
+    "sentiment_report": "CKG.V sentiment speculative; junior mining cycle. Some momentum traders; institutional coverage absent.",
+    "news_report": "CKG: Recent drill results mixed. Financing discussions underway. Operational challenges in exploration.",
+    "fundamentals_report": "CKG pure exploration play (pre-revenue, unprofitable). Cash tight; dilution inevitable. No clear path to production.",
+    "investment_debate_state": {
+      "bull_history": "Bull: Exploration stage; upside if major discovery. Microcap leverage to commodity prices. Insider buying noted.",
+      "bear_history": "Bear: Junior mining graveyard. Capital requirements extreme. Dilution assured. Better mining exposure via majors.",
+      "history": "Exploration story vs capital structure risk.",
+      "current_response": "Judge: CKG.V extreme speculative microcap. Avoid for core portfolios.",
+      "judge_decision": "Avoid rating. Execution and capital structure risk prohibitive."
+    },
+    "trader_investment_decision": "Trader: CKG.V chart breakdown (down 50% YTD). Volume spikes on bad news. No technical support. **FINAL TRANSACTION PROPOSAL: AVOID**",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive: Microcap mining double-up lottery.",
+      "conservative_history": "Conservative: Complete avoidance recommended.",
+      "neutral_history": "Neutral: Avoid.",
+      "history": "Risk tolerance and conviction.",
+      "judge_decision": "Rating: AVOID | Sizing: 0% | Horizon: N/A | Risk: 5/5 (downside)."
+    },
+    "investment_plan": "PM: CKG.V unsuitable. Avoid entirely.",
+    "final_trade_decision": "RATING: AVOID | ACTION: Do not buy | SIZING: 0% | RISK LEVEL: 5/5 (downside) | HORIZON: N/A | THESIS: Exploration-stage capital structure risk. CONCLUSION: Speculative microcap; unsuitable."
+  }
+}

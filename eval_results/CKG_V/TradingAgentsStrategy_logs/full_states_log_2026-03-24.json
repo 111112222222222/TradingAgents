@@ -1,0 +1,27 @@
+{
+  "2026-03-24": {
+    "company_of_interest": "CKG.V",
+    "trade_date": "2026-03-24",
+    "market_report": "CKG Cargojet Inc CAD$48.15, -1.47% (-$0.72). Volume 1.8M. Below 50-day MA. Canadian small-cap, e-commerce dependent.",
+    "sentiment_report": "Bearish: e-commerce capacity softness, Q1 2026 cost pressures (fuel, labor), margin compression visible. Guidance miss creating negative momentum.",
+    "news_report": "Q4 2025 results showed margin pressure from labor inflation + fuel hedge losses. E-commerce growth slowing post-pandemic (50% 2020-21 surge not sustained). 2026 EBITDA growth guidance modest 2-3% vs 5% historical. Pricing pressures visible.",
+    "fundamentals_report": "Business: express air cargo dominated by Amazon + e-commerce. Pandemic demand (2020-21) created inflated run rates. Demand normalization + labor cost inflation (unionized) = 2026 margin pressure. Capital intensive, high leverage.",
+    "investment_debate_state": {
+      "bull_history": "Amazon reliability concerns = capacity premium. Peak labor cost growth may moderate Q2. E-commerce 5-10% above pre-pandemic. Fuel hedges unwinding improves H2 margins. Value at depressed multiples.",
+      "bear_history": "Demand not sustaining 2021 peaks. Q1 pressures extend year. Labor re-negotiation coming (cost risk). Amazon in-house logistics competitive threat. Canadian small-cap headwinds.",
+      "history": "BULL: Amazon reliability concerns = capacity premium. Peak labor cost growth may moderate Q2. E-commerce 5-10% above pre-pandemic. Fuel hedges unwinding improves H2 margins. Value at depressed multiples. | BEAR: Demand not sustaining 2021 peaks. Q1 pressures extend year. Labor re-negotiation coming (cost risk). Amazon in-house logistics competitive threat. Canadian small-cap headwinds.",
+      "current_response": "Bull: Amazon reliability concerns = capacity premium. Peak labor cost growth may moderate Q2. E-commerce 5-10% above pre-pandemic. Fuel hedges unwinding improves H2 margins. Value at depressed multiples. | Bear: Demand not sustaining 2021 peaks. Q1 pressures extend year. Labor re-negotiation coming (cost risk). Amazon in-house logistics competitive threat. Canadian small-cap headwinds.",
+      "judge_decision": "Bears have stronger case. Margin pressure structural (labor sticky), demand normalizing. Bull case relies on recovery unlikely near-term."
+    },
+    "trader_investment_decision": "Deteriorating fundamentals visible -1.47% move + below 50-day. Recommend reducing/exiting. Cost pressures evident, demand normalizing. **FINAL TRANSACTION PROPOSAL: SELL / REDUCE position, avoid new accumulation**",
+    "risk_debate_state": {
+      "aggressive_history": "SELL/REDUCE. Deterioration accelerating.",
+      "conservative_history": "SELL completely. Risk/reward unfavorable.",
+      "neutral_history": "REDUCE to 1-2% max. Reassess after Q2 guidance.",
+      "history": "AGGRESSIVE: SELL/REDUCE. Deterioration accelerating. | CONSERVATIVE: SELL completely. Risk/reward unfavorable. | NEUTRAL: REDUCE to 1-2% max. Reassess after Q2 guidance.",
+      "judge_decision": "Consensus bearish. Structural headwinds unlikely resolved."
+    },
+    "investment_plan": "Rating: SELL (Deteriorating) | Action: REDUCE / SELL position | Sizing: 0-2% maximum if held for income | Horizon: Avoid 12+ month positioning",
+    "final_trade_decision": "Rating: SELL (Deteriorating) | Action: REDUCE / SELL position | Position Size: 0-2% maximum if held for income | Risk Levels: Margin acceleration (HIGH), Demand miss (HIGH), Labor re-negotiation (MEDIUM), Amazon threat (MEDIUM), Leverage (MEDIUM) | Horizon: Avoid 12+ month positioning | Thesis: Structural margin pressure from labor costs + e-commerce normalization. Deteriorating fundamentals support reduction. | Conclusion: REDUCE to 1-2% max or EXIT entirely. No accumulation. Monitor Q2 guidance for re-entry if margins stabilize. Near-term catalysts negative."
+  }
+}

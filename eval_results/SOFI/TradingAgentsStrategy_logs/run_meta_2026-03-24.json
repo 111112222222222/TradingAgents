@@ -1,0 +1,16 @@
+{
+  "ticker": "SOFI",
+  "date": "2026-03-24",
+  "runId": "SOFI-2026-03-24",
+  "provider": "openai",
+  "deep_model": "gpt-4o-mini",
+  "quick_model": "gpt-4o-mini",
+  "analysts": [
+    "market",
+    "social",
+    "news",
+    "fundamentals"
+  ],
+  "max_debate_rounds": 1,
+  "started_at": "2026-03-24T18:01:09.424Z"
+}

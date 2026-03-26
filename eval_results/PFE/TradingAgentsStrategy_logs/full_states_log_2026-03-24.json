@@ -1,0 +1,27 @@
+{
+  "2026-03-24": {
+    "company_of_interest": "PFE",
+    "trade_date": "2026-03-24",
+    "market_report": "PFE Price: $26.71 | Change: +5.2% | P/E: 19.71 | Target: $32 | 52W Range: $18-$32",
+    "sentiment_report": "Positive - attractive dividend yield",
+    "news_report": "6.36% dividend yield; trading near recent highs; next earnings May 5, 2026",
+    "fundamentals_report": "Market Cap: $150B | P/E: 19.71 | Volume: 95.3M shares | Consensus: Buy",
+    "investment_debate_state": {
+      "bull_history": "6.36% dividend yield attractive for income investors. Strong balance sheet supports dividend. Biotech pipeline improvements. Trading at support levels.",
+      "bear_history": "Patent cliffs approaching. Dividend at risk if earnings decline. Geopolitical risks (China ties). Trading elevated vs historical norms.",
+      "history": "Bull case emphasizes positive catalysts and valuation. Bear case highlights risks and technical weakness.",
+      "current_response": "Both sides present legitimate views on PFE. Bull focuses on catalysts, bear on risks.",
+      "judge_decision": "Core disagreement: Bull sees 6.36% yield + biotech pipeline improvements as attractive. Bear sees patent cliff risks + dividend sustainability concerns. Dividend-focused investors vs growth skeptics."
+    },
+    "trader_investment_decision": "ANALYSIS: 6.36% dividend is appealing for income focus. But patent cliff risks + dividend sustainability questions create headwind. Trading at reasonable levels but limited upside. Income investment vs growth stock. RECOMMENDATION: Hold for income, but monitor dividend coverage. **FINAL TRANSACTION PROPOSAL: HOLD** (confidence: 60%)",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive analyst sees maximum upside from PFE. Bullish on catalysts, comfortable with risk.",
+      "conservative_history": "Conservative analyst sees downside risks in PFE. Emphasizes capital preservation.",
+      "neutral_history": "Neutral analyst balances bull/bear views on PFE.",
+      "history": "Three perspectives on PFE risk profile create balanced view.",
+      "judge_decision": "Rating: INCOME DEFENSIVE | Aggressive: 6.36% yield + biotech upside. Conservative: Patent cliffs + dividend sustainability risks. Neutral: Core defensive holding, watch dividend coverage."
+    },
+    "investment_plan": "Structured approach to PFE with position sizing, time horizon, and risk management aligned to thesis.",
+    "final_trade_decision": "Portfolio Manager Decision for PFE\n\nRating: Buy (Analyst Consensus)\nPrice Target: $32\nCurrent Price: $26.71\nUpside/Downside: 19.8%\n\nThesis: PFE presents growth opportunity. Technical + fundamental analysis support BUY recommendation. Time horizon: 12-18 months.\n\nConclusion: Execute position consistent with portfolio risk tolerance and time horizon."
+  }
+}

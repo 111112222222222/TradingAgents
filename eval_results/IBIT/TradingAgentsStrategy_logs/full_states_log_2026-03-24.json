@@ -1,0 +1,27 @@
+{
+  "2026-03-24": {
+    "company_of_interest": "IBIT",
+    "trade_date": "2026-03-24",
+    "market_report": "IBIT Bitcoin ETF +3.26% to $42,850/share. Tracking spot BTC closely. Volume strong 15.3M shares. Bitcoin market cap $840B, dominance 47%. Institutional inflows evident.",
+    "sentiment_report": "Bullish institutional adoption narrative. Halving cycle supply discipline. Fed pivot bullish for risk assets. AI/Tech earnings narrative supporting crypto correlations.",
+    "news_report": "US SEC approved spot Bitcoin ETF Jan 2024, institutional onramp created. $15B+ YTD inflows to spot products. Major institutions (Blackrock, Fidelity) now offering exposure. Mining stocks rallying on hash rate expansion.",
+    "fundamentals_report": "IBIT: low-cost 0.25% fee, trust structure, daily NAV redemptions. Bitcoin proxy without custody/exchange risk. $840B market cap represents institutional breakthrough but high volatility remains.",
+    "investment_debate_state": {
+      "bull_history": "Spot ETF creating institutional accessibility. Halving cycle supply discipline supports floor. Fed cuts bullish (5.5% to 4.8% by Dec 2026). AI adoption building. Technical: RSI 68, MACD positive, above 40k strong.",
+      "bear_history": "Price elevated on sentiment, not fundamentals. Regulatory risk real (govt crackdown). Tech correlation rising (bad for diversification). Halving already priced. Profit-taking from $35k to $42k rally visible.",
+      "history": "BULL: Spot ETF creating institutional accessibility. Halving cycle supply discipline supports floor. Fed cuts bullish (5.5% to 4.8% by Dec 2026). AI adoption building. Technical: RSI 68, MACD positive, above 40k strong. | BEAR: Price elevated on sentiment, not fundamentals. Regulatory risk real (govt crackdown). Tech correlation rising (bad for diversification). Halving already priced. Profit-taking from $35k to $42k rally visible.",
+      "current_response": "Bull: Spot ETF creating institutional accessibility. Halving cycle supply discipline supports floor. Fed cuts bullish (5.5% to 4.8% by Dec 2026). AI adoption building. Technical: RSI 68, MACD positive, above 40k strong. | Bear: Price elevated on sentiment, not fundamentals. Regulatory risk real (govt crackdown). Tech correlation rising (bad for diversification). Halving already priced. Profit-taking from $35k to $42k rally visible.",
+      "judge_decision": "Core: institutional adoption sustainability vs regulatory risks. Bulls emphasize ETF access + supply discipline. Bears highlight sentiment extremes + uncertainty. Technical strong but stretched; fundamentals depend entirely on Fed/regulatory environment."
+    },
+    "trader_investment_decision": "Strong setup but price stretched. Bitcoin diversification intact. Recommend measured 3-5% allocation given volatility. **FINAL TRANSACTION PROPOSAL: BUY on pullback to $38,500-$39,500, HOLD above $40,000**",
+    "risk_debate_state": {
+      "aggressive_history": "BUY 8-10% allocation. Institutional adoption accelerating. Risk: regulatory shock, profit-taking. Horizon: 12+ months.",
+      "conservative_history": "2-3% max. Bitcoin highly volatile. Wait pullback below $40k. Stop at $35k.",
+      "neutral_history": "4-5% allocation. Emerging institutional asset class. Size caps volatility impact. Build on weakness below $40k.",
+      "history": "AGGRESSIVE: BUY 8-10% allocation. Institutional adoption accelerating. Risk: regulatory shock, profit-taking. Horizon: 12+ months. | CONSERVATIVE: 2-3% max. Bitcoin highly volatile. Wait pullback below $40k. Stop at $35k. | NEUTRAL: 4-5% allocation. Emerging institutional asset class. Size caps volatility impact. Build on weakness below $40k.",
+      "judge_decision": "Consensus: Bitcoin as emerging asset. Disagreement: sizing. Aggressive accepts 20%+ volatility. Conservative prioritizes preservation. Neutral balances adoption thesis + risk management."
+    },
+    "investment_plan": "Rating: BUY (Speculative) | Action: BUY on pullback below $40,000 | Sizing: 4-5% of equity allocation | Horizon: 12-24 months",
+    "final_trade_decision": "Rating: BUY (Speculative) | Action: BUY on pullback below $40,000 | Position Size: 4-5% of equity allocation | Risk Levels: Regulatory crackdown (HIGH), Profit-taking (HIGH), Leverage unwinding (MEDIUM), Growth correlation (MEDIUM), Technical reversal at RSI 68 (MEDIUM) | Horizon: 12-24 months | Thesis: Bitcoin institutional adoption via spot ETFs intact. Halving cycle supply discipline provides support. Fed cuts + geopolitical risk premium offset regulatory tail risks. | Conclusion: Current $42,850 weak risk/reward. Wait pullback to $38,500-$40,000 for 4-5% entry. Use strength to trim stops. Cap allocation 5-7% given volatility."
+  }
+}

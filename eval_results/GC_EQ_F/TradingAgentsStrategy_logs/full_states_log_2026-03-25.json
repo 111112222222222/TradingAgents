@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "GC=F (Gold Futures)",
+    "trade_date": "2026-03-25",
+    "market_report": "Gold at $2,385/oz, +0.8% on day. 180K contracts volume. USD weakness driving strength (+0.3% USDX weakness). Real yields declining (TNX down 5bp despite weak bond market). Geopolitical bid present. Speculators net long.",
+    "sentiment_report": "Gold sentiment bifurcated: hedging demand robust (geopolitical risk) vs rate hike cycle keeping some bears. Fed pivot narrative building support. Central bank accumulation stories bullish.",
+    "news_report": "Gold market: Central banks adding to reserves; geopolitical premiums embedded; inflation expectations sticky. No major technical silver triggers.",
+    "fundamentals_report": "Real yield (-1.4% after inflation expectations) supportive. Negative real rates drive gold demand. Supply tight (mining production declining). Jeweler demand seasonal recovery.",
+    "investment_debate_state": {
+      "bull_history": "Bull: Real yields deeply negative. Geopolitical instability supports hedging demand. Fed pivot building; rates may decline H2 2026. Central banks accumulating. $2,500+ target justified.",
+      "bear_history": "Bear: Nominal yields rising if inflation persists. Technical breakdown from $2,430 high (Feb). If equities rally, gold sells off (correlation). Better opportunities in REITs or bonds.",
+      "history": "Rate expectations and real yields debate.",
+      "current_response": "Judge: Real yields negative supporting gold. But if nominal rates rise from here, gold vulnerable. Current price $2,385 fair-to-rich on 12-month basis.",
+      "judge_decision": "Neutral rating. Gold suitable for 3-5% portfolio hedging; not tactical buy. Support building at $2,350."
+    },
+    "trader_investment_decision": "Trader: Gold futures chart near highs; momentum waning. Resistance at $2,410; support $2,350. No clear directional setup. **FINAL TRANSACTION PROPOSAL: HOLD** (use GLD ETF for portfolio exposure vs futures)",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive: $2,450+ target; geopolitical premium expanding.",
+      "conservative_history": "Conservative: Avoid or use tight stops at $2,350.",
+      "neutral_history": "Neutral: 3-5% allocation via GLD acceptable.",
+      "history": "Volatility tolerance.",
+      "judge_decision": "Rating: HOLD | Sizing: 3-4% via GLD ETF | Horizon: Ongoing | Risk: 2/5. Triggers: (1) real yields rise, (2) geopolitical cease-fire, (3) USD rally, (4) deflationary shock, (5) equities crash (buy)."
+    },
+    "investment_plan": "PM: Gold core allocation for portfolio hedging. 3-4% via GLD preferred to futures (simpler, lower friction).",
+    "final_trade_decision": "RATING: HOLD | ACTION: Maintain 3-4% via GLD | SIZING: 3-4% of portfolio | RISK LEVEL: 2/5 | HORIZON: Ongoing | THESIS: Real yields negative; geopolitical hedge. CONCLUSION: Core hedging allocation, not tactical trade."
+  }
+}

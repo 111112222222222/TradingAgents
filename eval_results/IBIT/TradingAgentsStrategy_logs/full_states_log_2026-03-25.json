@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "IBIT (iShares Bitcoin Mini Trust ETF)",
+    "trade_date": "2026-03-25",
+    "market_report": "IBIT at $52.30, +2.1% on day. AUM $18.5B\u2014one of largest spot BTC ETFs. Very tight tracking to BTC-USD. Volume 4.8M shares daily. Spreads minimal. BTC-USD at $69,850 (+1.9%). Crypto volatility elevated.",
+    "sentiment_report": "Bitcoin sentiment bifurcated: institutional adoption story vs speculative excess. ETF flows positive (inflows $200M+/day YTD). Macro uncertainty drives flight-to-alternative-assets. Some concern over regulatory clarity.",
+    "news_report": "Headlines: Bitcoin March rally (up 20% YTD); El Salvador mining initiative gains steam; SEC filing approvals accelerate crypto ETF adoption; China mining activity normalized. Geopolitical hedging demand noted.",
+    "fundamentals_report": "BTC market cap $1.38T; supply scarcity intact (21M cap unchanged). Halving event May 2024 effect wearing off. On-chain metrics show accumulation by long-term holders. Miners profitable at current levels.",
+    "investment_debate_state": {
+      "bull_history": "Bull: Bitcoin macro adoption inflecting. Institutional entry via ETFs removes friction. Geopolitical instability drives hedging demand. Supply-side scarcity + halving narrative supports higher prices. BTC could reach $100K+ by year-end.",
+      "bear_history": "Bear: Crypto remains speculative, unanchored to fundamentals. Regulatory risk persistent. Macro tightening could reverse flows. If equities crash, Bitcoin follows (correlations rising). Better risk/reward in traditional hedges.",
+      "history": "Bull sees adoption inflection; bear sees speculative bubble.",
+      "current_response": "Judge: Bitcoin adoption momentum undeniable (ETF flows, institutional interest). But valuation stretched on historical basis. Risk/reward balanced for 3-6 month horizon.",
+      "judge_decision": "Moderate bullish bias. BTC momentum strong; regulatory backdrop improving. But avoid euphoria. Size accordingly."
+    },
+    "trader_investment_decision": "Trader: IBIT technicals strong (breakout above $50); momentum positive. ETF structure removes custody/operational risk vs direct BTC. Sentiment constructive but not euphoric. **FINAL TRANSACTION PROPOSAL: BUY** (2-3 month tactical position, 3-4% allocation max)",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive: Bitcoin due for $90K+ move. Load 5-6% IBIT for portfolio juice.",
+      "conservative_history": "Conservative: Too volatile. Crypto correlation rising. Keep under 2%; use tight stops.",
+      "neutral_history": "Neutral: 3-4% tactical position appropriate for upside capture with limited downside.",
+      "history": "Volatility and regulatory risk drive disagreement.",
+      "judge_decision": "Rating: BUY (tactical) | Sizing: 3% | Horizon: 3-6 months | Risk: 5/5 (highly volatile). Triggers: (1) BTC above $75K (trim), (2) BTC below $60K (exit), (3) regulatory ban (exit), (4) market crash (may add), (5) ATH break (trim)."
+    },
+    "investment_plan": "PM: IBIT tactical allocation for crypto upside exposure with ETF convenience. 3% sizing respects volatility. Establish hard stops at $45 and profit-taking at $65.",
+    "final_trade_decision": "RATING: BUY (tactical) | ACTION: Initiate 3% position | SIZING: 3% of portfolio | RISK LEVEL: 5/5 (highly volatile) | HORIZON: 3-6 months | THESIS: Bitcoin institutional adoption inflecting; geopolitical hedging demand. CONCLUSION: Tactical exposure via IBIT; size strictly for volatility tolerance."
+  }
+}

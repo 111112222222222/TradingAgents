@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "CL=F (WTI Crude Oil Futures)",
+    "trade_date": "2026-03-25",
+    "market_report": "WTI Crude at $78.20, -1.2% on day. 2.1M contracts daily volume. Contango market structure. EIA inventories drawn 2.3M barrels last week. Spreads stable. Geopolitical risk premium 8-10% embedded.",
+    "sentiment_report": "Oil sentiment constructive on supply tightness, OPEC+ discipline, and geopolitical tensions. Some concern over recession demand destruction. Trader positioning net long (Commitment of Traders data).",
+    "news_report": "Oil market: SPR drawdown completed by Biden admin; Iran sanctions tightening; Russian production constraints; Mexico output decline. OPEC+ holding production targets steady.",
+    "fundamentals_report": "Global demand ~100.5M bpd; supply ~100M bpd (undersupply 500K bpd). OPEC+ spare capacity minimal at 2.5M bpd. USD weakness supports oil prices. Correlation with equity weakness noted.",
+    "investment_debate_state": {
+      "bull_history": "Bull: Supply-demand balance tight; undersupply builds geopolitical risk premium. OPEC+ discipline unbroken. Sanctions on Russia/Iran reducing global supplies. Lower for longer over. $85+ target justified.",
+      "bear_history": "Bear: Recession tail would crush demand. Alternative energy adoption accelerating. China growth concerns weigh. Chart shows peak above $90 (Aug 2023); lower highs forming. Heading toward $70.",
+      "history": "Supply scarcity vs demand destruction.",
+      "current_response": "Judge: Supply-side evidence stronger Q1 2026. Recession not yet confirmed. Geopolitical premium justified. But demand risks building if macro deteriorates.",
+      "judge_decision": "Bullish bias on supply fundamentals; neutral on macro outlook. Suitable for hedging portfolios; caution on aggressive sizing."
+    },
+    "trader_investment_decision": "Trader: WTI futures chart shows support at $76, resistance at $82. Trend neutral to slightly up. Near-term pullback possible (today -1.2%) but structure intact. **FINAL TRANSACTION PROPOSAL: HOLD / SELECTIVELY LONG** (crude exposure via XLE preferred to direct futures for portfolio context)",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive: Go long crude; target $85 on supply tightness.",
+      "conservative_history": "Conservative: Recession risk high; avoid or use tight 5% stops.",
+      "neutral_history": "Neutral: Measured long position ($3-5/bbl above current) acceptable.",
+      "history": "Macro vs micro fundamentals.",
+      "judge_decision": "Rating: HOLD (tactical long via XLE preferred) | Sizing: Futures not recommended; use XLE | Horizon: 1-6 months | Risk: 4/5. Triggers: (1) EIA demand fell, (2) OPEC+ cuts production, (3) geopolitical cease-fire, (4) recession confirmed, (5) supply surge."
+    },
+    "investment_plan": "PM: Direct crude futures risky and illiquid for standard portfolios. XLE exposure preferred. If direct crude position needed, size at 2% max with tight risk management.",
+    "final_trade_decision": "RATING: HOLD (prefer XLE exposure) | ACTION: Maintain via XLE | SIZING: N/A (use XLE instead) | RISK LEVEL: 4/5 | HORIZON: 6-12 months | THESIS: Supply tightness + geopolitical premium. CONCLUSION: Energy sector gains more attractive than direct futures exposure."
+  }
+}

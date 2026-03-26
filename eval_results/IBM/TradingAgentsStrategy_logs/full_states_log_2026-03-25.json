@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "IBM",
+    "trade_date": "2026-03-25",
+    "market_report": "IBM trades at $241.39, +0.33% on March 25. Q4 2025 earnings beat: EPS $4.52 vs $4.29, revenue $19.7B (+6%). 2026 guidance: 5%+ constant currency growth, 10% software expansion, FCF $15.7B. AI book of business >$12.5B. Analyst PT $315.15 (+30.6% upside).",
+    "sentiment_report": "Sentiment decisively bullish on AI momentum and software mix acceleration. 6% revenue growth (highest in years) validates transformation narrative. Record AI bookings validate enterprise adoption. Institutional accumulation evident.",
+    "news_report": "IBM generative AI book >$12.5B with record bookings momentum. Software segment growing 9% driving margin expansion. Infrastructure revenue accelerating from AI demand. Watson AI expanding use cases in enterprise. Strategic partnership ecosystem growing.",
+    "fundamentals_report": "2026 guidance implies 7-9% EPS growth from 5% revenue growth (mix + productivity). Software growing 10% at 75%+ margins (scale leverage). Record FCF $14.7B in 2025 expected to grow to $15.7B. Dividend safe at 1.5x payout ratio. ROI improving on cloud/AI investments.",
+    "investment_debate_state": {
+      "bull_history": "BULL ROUND 1: 1) AI book >$12.5B with exponential growth trajectory 2) Software expansion 10% driving 150+ bps margin improvement 3) Hybrid cloud infrastructure demand accelerating 4) Record FCF supports dividend growth 5) Valuation reasonable 22.8x for software-weighted earnings 6) Enterprise AI adoption secular tailwind",
+      "bear_history": "BEAR ROUND 1: 1) AI monetization unproven at scale; bookings may not convert 2) Competition from Salesforce/SAP in enterprise AI 3) Gross margin pressure from competitive intensity 4) Capex requirements rising for infrastructure 5) Valuation not cheap at 22.8x on software-weighting 6) Execution risk on cloud/AI transformation",
+      "history": "Investment debate: Bull vs Bear perspectives presented",
+      "current_response": "IBM transformation credible with 6% revenue growth (highest in years) and AI momentum ($12.5B+ book). Bull case: 7-9% EPS growth from software acceleration and AI adoption supporting 23-25x multiple. Bear case: execution risk on AI monetization and competitive pressures. Fair value $300-330 (24-27x forward on 7-8% growth) suggests analyst PT $315 is conservative. Key variable: AI booking conversion rate and software margin maintenance.",
+      "judge_decision": "IBM transformation credible with 6% revenue growth (highest in years) and AI momentum ($12.5B+ book). Bull case: 7-9% EPS growth from software acceleration and AI adoption supporting 23-25x multiple. Bear case: execution risk on AI monetization and competitive pressures. Fair value $300-330 (24-27x forward on 7-8% growth) suggests analyst PT $315 is conservative. Key variable: AI booking conversion rate and software margin maintenance."
+    },
+    "trader_investment_decision": "BUY - IBM transformation delivering; 6% revenue growth validates strategy. AI momentum ($12.5B+ book) provides upside surprise optionality. Analyst PT $315.15 (+30.6%) offers attractive risk/reward. **FINAL TRANSACTION PROPOSAL: BUY** - Buy for 12+ month hold targeting $300-330.",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive bull case on 1) AI book >$12.5B with exponential growth trajectory 2) Software expansion 10% driving 150+ bps margin improvement 3) Hybrid cloud infrastructure dem",
+      "conservative_history": "Conservative bear case on 1) AI monetization unproven at scale; bookings may not convert 2) Competition from Salesforce/SAP in enterprise AI 3) Gross margin pressure from compe",
+      "neutral_history": "Neutral balanced risk view presented",
+      "history": "Risk analysis across scenarios",
+      "judge_decision": "IBM Risk Rating: 3.0/5.0 | Position Sizing: 4-5% | Key Risks: AI monetization, competition, margin pressure | Conclusion: Buy for AI infrastructure exposure. Fair value $300-330. Software mix expansion and AI adoption drive thesis. Key catalyst: 2026 software growth acceleration and AI booking conversion."
+    },
+    "investment_plan": "Portfolio Manager: IBM | Rating: 3.0/5.0 | Action: Buy for AI infrastructure exposure. Fair value $300-330. Software mix expansion ... | Sizing: 4-5% | Thesis: Buy for AI infrastructure exposure. Fair value $300-330. Software mix expansion and AI adoption drive thesis. Key catalyst: 2026 software growth acceleration and AI booking conversion.",
+    "final_trade_decision": "Buy for AI infrastructure exposure. Fair value $300-330. Software mix expansion and AI adoption drive thesis. Key catalyst: 2026 software growth acceleration and AI booking conversion."
+  }
+}

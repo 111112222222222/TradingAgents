@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "AMGN",
+    "trade_date": "2026-03-25",
+    "market_report": "Amgen (AMGN) trades at $347.80, -1.25% on March 25. 2025 revenue $36.75B (+9.95%), earnings $7.71B (+88.53%). P/E ~45x. 2026 guidance: growth expected despite loss-of-exclusivity (LOE) headwinds on major drugs. 18 analysts rated Hold, PT $345.12 (-0.77% downside vs. consensus).",
+    "sentiment_report": "Sentiment cautious given LOE headwinds and analyst Hold consensus. 2025 strong earnings due to one-time benefits. 2026 growth uncertain with biosimilar competition on MenB/Prolia. Market questions sustainability of current valuation.",
+    "news_report": "Amgen facing 2026 biosimilar competition (MenB, Prolia launches). Pipeline activity ongoing with several phase III programs. Capital allocation through buybacks $5-7B annually. Dividend growing modestly. Strategic review of non-core assets underway.",
+    "fundamentals_report": "2026 guidance vague on growth - suggests low single digit growth expected. LOE on Prolia/MenB estimated $2-3B revenue impact through 2027. Offset by pipeline (Tezepelumab, migraine franchise). Operating margin 35-40% sustainable. FCF $8-9B supports capital return. Valuation at 45x PE on uncertain growth is stretched.",
+    "investment_debate_state": {
+      "bull_history": "BULL ROUND 1: 1) Pipeline delivering (Tezepelumab, migraine royalties) offsetting LOE 2) Capital allocation disciplined (buybacks $5-7B annually) 3) Dividend safety/growth 4) Biosimilar transition manageable 5) Specialty pharma tailwinds 6) International expansion offsetting US LOE",
+      "bear_history": "BEAR ROUND 1: 1) Valuation 45x PE extremely high on uncertain growth 2) Prolia/MenB LOE $2-3B headwind not easily offset 3) Pipeline unproven - late stage data risks 4) Biosimilar pricing pressure 5) Capital returns limited by growth investments 6) Macro pharma spending uncertainty",
+      "history": "Investment debate: Bull vs Bear perspectives presented",
+      "current_response": "AMGN fundamentals weak for 2026; Hold consensus appropriate. Bull case: pipeline offset biosimilar impact = flat/modest growth. Bear case: 45x PE unjustified for low single digit growth. Fair value $310-330 (38-42x forward on 4-6% growth) suggests 10-15% downside risk from current $347.80. Key variable: pipeline readout timing and Prolia/MenB transition execution.",
+      "judge_decision": "AMGN fundamentals weak for 2026; Hold consensus appropriate. Bull case: pipeline offset biosimilar impact = flat/modest growth. Bear case: 45x PE unjustified for low single digit growth. Fair value $310-330 (38-42x forward on 4-6% growth) suggests 10-15% downside risk from current $347.80. Key variable: pipeline readout timing and Prolia/MenB transition execution."
+    },
+    "trader_investment_decision": "HOLD/REDUCE - Valuation stretched at 45x forward P/E for low single digit growth. Hold consensus appropriate. Downside risk if pipeline disappoints. Better entry on 15-20% weakness to $290-310 range. **FINAL TRANSACTION PROPOSAL: HOLD/REDUCE** - Reduce exposure for better entry points; avoid new purchases at $347.80.",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive bull case on 1) Pipeline delivering (Tezepelumab, migraine royalties) offsetting LOE 2) Capital allocation disciplined (buybacks $5-7B annually) 3) Dividend safety",
+      "conservative_history": "Conservative bear case on 1) Valuation 45x PE extremely high on uncertain growth 2) Prolia/MenB LOE $2-3B headwind not easily offset 3) Pipeline unproven - late stage data risk",
+      "neutral_history": "Neutral balanced risk view presented",
+      "history": "Risk analysis across scenarios",
+      "judge_decision": "AMGN Risk Rating: 3.5/5.0 | Position Sizing: 2-3% | Key Risks: Pipeline execution, LOE impact, valuation compression | Conclusion: Hold on valuation concerns. Fair value $310-330. Analyst Hold consensus justified. Better entry on weakness. Key catalyst: pipeline readouts and biosimilar transition update."
+    },
+    "investment_plan": "Portfolio Manager: AMGN | Rating: 3.5/5.0 | Action: Hold on valuation concerns. Fair value $310-330. Analyst Hold consensus justifie... | Sizing: 2-3% | Thesis: Hold on valuation concerns. Fair value $310-330. Analyst Hold consensus justified. Better entry on weakness. Key catalyst: pipeline readouts and biosimilar transition update.",
+    "final_trade_decision": "Hold on valuation concerns. Fair value $310-330. Analyst Hold consensus justified. Better entry on weakness. Key catalyst: pipeline readouts and biosimilar transition update."
+  }
+}

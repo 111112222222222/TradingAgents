@@ -1,0 +1,27 @@
+{
+  "2026-03-25": {
+    "company_of_interest": "SGOV (Short-Term Treasury Bond ETF)",
+    "trade_date": "2026-03-25",
+    "market_report": "SGOV at $98.12, +0.3% on day. Duration 0.5 years. Yield-to-maturity 5.25%. Tight bid-ask spread; strong institutional demand. Fed rate guidance unchanged at 4.25-4.50%. Curve flattening observed (2yr/10yr spread -45bp).",
+    "sentiment_report": "Fixed income sentiment cautious; rate cut expectations priced for mid-2026. Flight-to-quality flows persist. Money market demand robust. Municipal bond weakness contrasts with Treasuries. Risk-parity positioning neutral.",
+    "news_report": "Treasury: Inflation data mixed (PCE +2.9% YoY). Fed speakers maintain hawkish tone. Debt ceiling negotiations heating up. Credit markets pricing 2-3 cuts by year-end.",
+    "fundamentals_report": "Fed funds rate 4.25-4.50% vs SGOV yield 5.25% compression reflects long-duration bonds outperforming. Real yield approximately +2.3% (assuming 2.9% PCE). Very attractive for capital preservation vs equity downside.",
+    "investment_debate_state": {
+      "bull_history": "Bull: Short-term yields (5.25%) provide portfolio ballast against equity drawdown. Capital preservation paramount given macro uncertainty. Fed pivot narrative building; rate cuts likely mid-year. No duration risk. True risk-free rate.",
+      "bear_history": "Bear: SGOV yields compressed versus longer maturities (TLT/IEF offering better risk/reward). If rate cuts delayed, yields compress further. Inflation persistence risks real yield erosion. Better alternatives in credit or equities for total return.",
+      "history": "Bull emphasizes safety; bear questions return adequacy.",
+      "current_response": "Judge: SGOV fills portfolio insurance role, not return driver. 5.25% yield acceptable for defensive sleeve. Uncertainty around cut timing and inflation path argues for some short-term exposure.",
+      "judge_decision": "Neutral rating. SGOV appropriate for 5-10% portfolio allocation as volatility buffer. Not compelling return, but capital preservation value clear."
+    },
+    "trader_investment_decision": "Trader: SGOV technicals flat; no catalyst for price appreciation in near term. Position as defensive anchor, not tactical trade. Yield-to-maturity adequate. **FINAL TRANSACTION PROPOSAL: HOLD** (build 3-4% defensive sleeve if not present)",
+    "risk_debate_state": {
+      "aggressive_history": "Aggressive: Too conservative. Equity risk-reward superior. Rates may stay higher longer.",
+      "conservative_history": "Conservative: Perfect defensive anchor. Hold 5-10% for stability.",
+      "neutral_history": "Neutral: 4-6% allocation appropriate for balanced risk.",
+      "history": "Risk tolerance drives sizing.",
+      "judge_decision": "Rating: HOLD | Sizing: 5% | Horizon: Ongoing | Risk: 1/5 (minimal). Triggers: (1) yields fall below 4.5%, (2) inflation spike, (3) equity crash (add), (4) Fed hikes resume, (5) credit stress (hold)."
+    },
+    "investment_plan": "PM: SGOV serves core defensive role. Maintain 5% base allocation; increase to 8% if equity volatility spikes. Not tactical trade; strategic allocation decision.",
+    "final_trade_decision": "RATING: HOLD | ACTION: Maintain 5% base | SIZING: 5% of portfolio | RISK LEVEL: 1/5 | HORIZON: Ongoing | THESIS: Capital preservation + yield in uncertain macro. CONCLUSION: SGOV essential portfolio stabilizer; not return driver."
+  }
+}

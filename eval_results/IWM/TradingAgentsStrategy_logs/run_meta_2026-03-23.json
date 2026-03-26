@@ -1,0 +1,16 @@
+{
+  "ticker": "IWM",
+  "date": "2026-03-23",
+  "runId": "IWM-2026-03-23",
+  "provider": "anthropic",
+  "deep_model": "claude-sonnet-4-6",
+  "quick_model": "claude-sonnet-4-6",
+  "analysts": [
+    "market",
+    "social",
+    "news",
+    "fundamentals"
+  ],
+  "max_debate_rounds": 1,
+  "started_at": "2026-03-24T05:12:42.563Z"
+}

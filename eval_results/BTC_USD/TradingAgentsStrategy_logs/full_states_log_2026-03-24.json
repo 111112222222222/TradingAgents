@@ -1,0 +1,27 @@
+{
+  "2026-03-24": {
+    "company_of_interest": "BTC-USD",
+    "trade_date": "2026-03-24",
+    "market_report": "Bitcoin spot $42,850, +3.26% daily. $28B 24-hr volume, strong participation. Market cap $840B, dominance 47%. Above 200-day MA at $39,500.",
+    "sentiment_report": "Risk-on strong. Bitcoin benefits from Fed pivot + institutional adoption post-ETF approval. Growth correlation rising, supporting macro risk-on.",
+    "news_report": "Fed speakers increasingly dovish. PCE inflation moderating. Mining stocks rallying. Ethereum upgrades supporting altcoins. Institutional allocations increasing. Geopolitical risks (Middle East) supporting hard assets.",
+    "fundamentals_report": "Bitcoin utility growing (payments, store of value) but nascent. Supply hard-capped 21M coins, 92% mined. Halving (Apr 2024) reduced issuance 50%, scarcity narrative. Energy consumption ~150 TWh/yr controversial.",
+    "investment_debate_state": {
+      "bull_history": "Fed cuts bullish (150+ bps through 2026). Halving cycle discipline continues. Institutional ETF inflows ($15B+ YTD). Inflation hedge valid if cuts stagflationary. Technical: RSI 68 but momentum above 40k intact.",
+      "bear_history": "$15k to $42k rally (2X+ in 12mo) leaves Bitcoin overextended fundamentally. Regulatory risk real (US, EU restrictions). NASDAQ correlation rising (bad diversification). ESG pressuring pensions. Leverage unwinding risk.",
+      "history": "BULL: Fed cuts bullish (150+ bps through 2026). Halving cycle discipline continues. Institutional ETF inflows ($15B+ YTD). Inflation hedge valid if cuts stagflationary. Technical: RSI 68 but momentum above 40k intact. | BEAR: $15k to $42k rally (2X+ in 12mo) leaves Bitcoin overextended fundamentally. Regulatory risk real (US, EU restrictions). NASDAQ correlation rising (bad diversification). ESG pressuring pensions. Leverage unwinding risk.",
+      "current_response": "Bull: Fed cuts bullish (150+ bps through 2026). Halving cycle discipline continues. Institutional ETF inflows ($15B+ YTD). Inflation hedge valid if cuts stagflationary. Technical: RSI 68 but momentum above 40k intact. | Bear: $15k to $42k rally (2X+ in 12mo) leaves Bitcoin overextended fundamentally. Regulatory risk real (US, EU restrictions). NASDAQ correlation rising (bad diversification). ESG pressuring pensions. Leverage unwinding risk.",
+      "judge_decision": "Bulls: institutional adoption + supply scarcity. Bears: valuation extremes + regulatory risks. Both valid - Bitcoin speculative bet on Fed cuts + regulatory clarity, not fundamental value. Technicals strong but overbought."
+    },
+    "trader_investment_decision": "Speculative allocation only. 3.26% daily volatility extreme. Current price weak risk/reward. Wait pullback to $38,500-$39,500. **FINAL TRANSACTION PROPOSAL: HOLD, BUY on weakness below $40,000**",
+    "risk_debate_state": {
+      "aggressive_history": "8-12% allocation. Halving + institutional = structural bull. Acceptable for 12-24 month horizon.",
+      "conservative_history": "0-2% max. Speculation too extreme. Value unclear. Regulatory risks material.",
+      "neutral_history": "4-6% allocation. Balanced exposure to adoption narrative. Size caps volatility impact to acceptable 2-3% daily swings.",
+      "history": "AGGRESSIVE: 8-12% allocation. Halving + institutional = structural bull. Acceptable for 12-24 month horizon. | CONSERVATIVE: 0-2% max. Speculation too extreme. Value unclear. Regulatory risks material. | NEUTRAL: 4-6% allocation. Balanced exposure to adoption narrative. Size caps volatility impact to acceptable 2-3% daily swings.",
+      "judge_decision": "Conservative prioritizes preservation over thesis. Neutral recognizes opportunity + caps size. Aggressive accepts leverage/volatility. Recommended: Neutral with strict discipline."
+    },
+    "investment_plan": "Rating: BUY (Tactical) | Action: BUY on dips to $38,500-$39,500 | Sizing: 4-6% of equity allocation | Horizon: 12-24 months halving cycle",
+    "final_trade_decision": "Rating: BUY (Tactical) | Action: BUY on dips to $38,500-$39,500 | Position Size: 4-6% of equity allocation | Risk Levels: Regulatory ban (HIGH), Leverage unwinding (HIGH), Institutional profit-taking (MEDIUM), Growth correlation (MEDIUM), 45k resistance (LOW) | Horizon: 12-24 months halving cycle | Thesis: Bitcoin emerging as institutional asset post-ETF approval. Halving cycle supply scarcity supports thesis. Fed cuts + geopolitical risk premium benefiting hard assets. | Conclusion: Price stretched on daily moves. Build 4-6% core on pullback below $40k. Monitor regulatory developments. Cap allocation given volatility/speculation nature."
+  }
+}
