@@ -1,3 +1,4 @@
+import re
 import questionary
 from typing import List, Optional, Tuple, Dict
 
@@ -8,6 +9,9 @@ from cli.models import AnalystType
 console = Console()
 
 TICKER_INPUT_EXAMPLES = "Examples: SPY, CNC.TO, 7203.T, 0700.HK"
+
+# Regex: alphanumeric, dots, hyphens allowed (for exchange suffixes like .TO, .HK)
+_VALID_TICKER_RE = re.compile(r'^[A-Za-z0-9][A-Za-z0-9.\-]{0,19}$')
 
 ANALYST_ORDER = [
     ("Market Analyst", AnalystType.MARKET),
@@ -38,8 +42,18 @@ def get_ticker() -> str:
 
 
 def normalize_ticker_symbol(ticker: str) -> str:
-    """Normalize ticker input while preserving exchange suffixes."""
-    return ticker.strip().upper()
+    """Normalize ticker input while preserving exchange suffixes.
+
+    Validates against path traversal and injection characters.
+    Only allows alphanumeric characters, dots, and hyphens.
+    """
+    cleaned = ticker.strip().upper()
+    if not _VALID_TICKER_RE.match(cleaned):
+        raise ValueError(
+            f"Invalid ticker symbol: {cleaned!r}. "
+            "Only alphanumeric characters, dots, and hyphens are allowed."
+        )
+    return cleaned
 
 
 def get_analysis_date() -> str:
@@ -163,6 +177,8 @@ def select_shallow_thinking_agent(provider) -> str:
             ("Grok 4.1 Fast (Reasoning) - High-performance, 2M ctx", "grok-4-1-fast-reasoning"),
         ],
         "openrouter": [
+            ("GPT-5.4 xHigh - OpenAI frontier via OpenRouter", "openai/gpt-5.4-xhigh"),
+            ("Gemini 3.1 Pro - Reasoning-first via OpenRouter", "google/gemini-3.1-pro-preview"),
             ("NVIDIA Nemotron 3 Nano 30B (free)", "nvidia/nemotron-3-nano-30b-a3b:free"),
             ("Z.AI GLM 4.5 Air (free)", "z-ai/glm-4.5-air:free"),
         ],
@@ -230,6 +246,8 @@ def select_deep_thinking_agent(provider) -> str:
             ("Grok 4.1 Fast (Non-Reasoning) - Speed optimized, 2M ctx", "grok-4-1-fast-non-reasoning"),
         ],
         "openrouter": [
+            ("GPT-5.4 xHigh - OpenAI frontier via OpenRouter", "openai/gpt-5.4-xhigh"),
+            ("Gemini 3.1 Pro - Reasoning-first via OpenRouter", "google/gemini-3.1-pro-preview"),
             ("Z.AI GLM 4.5 Air (free)", "z-ai/glm-4.5-air:free"),
             ("NVIDIA Nemotron 3 Nano 30B (free)", "nvidia/nemotron-3-nano-30b-a3b:free"),
         ],
