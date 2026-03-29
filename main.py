@@ -21,7 +21,7 @@ config["data_vendors"] = {
 }
 
 # Initialize with custom config
-ta = TradingAgentsGraph(debug=True, config=config)
+ta = TradingAgentsGraph(debug=False, config=config)
 
 # forward propagate
 _, decision = ta.propagate("NVDA", "2024-05-10")

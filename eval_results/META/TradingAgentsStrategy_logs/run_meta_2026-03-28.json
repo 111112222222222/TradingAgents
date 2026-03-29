@@ -1,0 +1,16 @@
+{
+  "ticker": "META",
+  "date": "2026-03-28",
+  "runId": "META-2026-03-28",
+  "provider": "openai",
+  "deep_model": "gpt-4o-mini",
+  "quick_model": "gpt-4o-mini",
+  "analysts": [
+    "market",
+    "social",
+    "news",
+    "fundamentals"
+  ],
+  "max_debate_rounds": 1,
+  "started_at": "2026-03-28T00:51:41.433Z"
+}

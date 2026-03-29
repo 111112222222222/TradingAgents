@@ -218,5 +218,5 @@ def get_indicator(
         return result_str
 
     except Exception as e:
-        print(f"Error getting Alpha Vantage indicator data for {indicator}: {e}")
-        return f"Error retrieving {indicator} data: {str(e)}"
+        print(f"Error getting Alpha Vantage indicator data for {indicator}: {type(e).__name__}")
+        return f"Error retrieving {indicator} data. Please try again."

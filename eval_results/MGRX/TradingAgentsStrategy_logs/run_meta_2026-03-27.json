@@ -1,0 +1,16 @@
+{
+  "ticker": "MGRX",
+  "date": "2026-03-27",
+  "runId": "MGRX-2026-03-27",
+  "provider": "openai",
+  "deep_model": "gpt-4o-mini",
+  "quick_model": "gpt-4o-mini",
+  "analysts": [
+    "market",
+    "social",
+    "news",
+    "fundamentals"
+  ],
+  "max_debate_rounds": 5,
+  "started_at": "2026-03-27T22:45:05.842Z"
+}

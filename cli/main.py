@@ -943,7 +943,7 @@ def run_analysis():
     graph = TradingAgentsGraph(
         selected_analyst_keys,
         config=config,
-        debug=True,
+        debug=False,
         callbacks=[stats_handler],
     )
 
@@ -953,8 +953,14 @@ def run_analysis():
     # Track start time for elapsed display
     start_time = time.time()
 
-    # Create result directory
-    results_dir = Path(config["results_dir"]) / selections["ticker"] / selections["analysis_date"]
+    # Create result directory (sanitize user input for path safety)
+    import re as _re
+    def _safe_path_component(val):
+        s = _re.sub(r'[^A-Za-z0-9.\-_]', '_', str(val)).strip('.')
+        if not s:
+            raise ValueError(f"Invalid path component: {val!r}")
+        return s
+    results_dir = Path(config["results_dir"]) / _safe_path_component(selections["ticker"]) / _safe_path_component(selections["analysis_date"])
     results_dir.mkdir(parents=True, exist_ok=True)
     report_dir = results_dir / "reports"
     report_dir.mkdir(parents=True, exist_ok=True)
@@ -1174,13 +1180,18 @@ def run_analysis():
             "Save path (press Enter for default)",
             default=str(default_path)
         ).strip()
-        save_path = Path(save_path_str)
-        try:
-            report_file = save_report_to_disk(final_state, selections["ticker"], save_path)
-            console.print(f"\n[green]✓ Report saved to:[/green] {save_path.resolve()}")
-            console.print(f"  [dim]Complete report:[/dim] {report_file.name}")
-        except Exception as e:
-            console.print(f"[red]Error saving report: {e}[/red]")
+        save_path = Path(save_path_str).resolve()
+        # Validate save path stays within the current working directory tree
+        cwd = Path.cwd().resolve()
+        if not str(save_path).startswith(str(cwd)):
+            console.print("[red]Error: Save path must be within the current working directory.[/red]")
+        else:
+            try:
+                report_file = save_report_to_disk(final_state, selections["ticker"], save_path)
+                console.print(f"\n[green]✓ Report saved to:[/green] {save_path}")
+                console.print(f"  [dim]Complete report:[/dim] {report_file.name}")
+            except Exception as e:
+                console.print("[red]Error saving report. Please check the path and try again.[/red]")
 
     # Prompt to display full report
     display_choice = typer.prompt("\nDisplay full report on screen?", default="Y").strip().upper()

@@ -7,6 +7,9 @@ from io import StringIO
 
 API_BASE_URL = "https://www.alphavantage.co/query"
 
+# Module-level entitlement state (avoids unsafe globals() access)
+_current_entitlement = None
+
 def get_api_key() -> str:
     """Retrieve the API key for Alpha Vantage from environment variables."""
     api_key = os.getenv("ALPHA_VANTAGE_API_KEY")
@@ -53,8 +56,8 @@ def _make_api_request(function_name: str, params: dict) -> dict | str:
         "source": "trading_agents",
     })
     
-    # Handle entitlement parameter if present in params or global variable
-    current_entitlement = globals().get('_current_entitlement')
+    # Handle entitlement parameter if present in params or module variable
+    current_entitlement = _current_entitlement
     entitlement = api_params.get("entitlement") or current_entitlement
     
     if entitlement:
@@ -75,7 +78,7 @@ def _make_api_request(function_name: str, params: dict) -> dict | str:
         if "Information" in response_json:
             info_message = response_json["Information"]
             if "rate limit" in info_message.lower() or "api key" in info_message.lower():
-                raise AlphaVantageRateLimitError(f"Alpha Vantage rate limit exceeded: {info_message}")
+                raise AlphaVantageRateLimitError("Alpha Vantage rate limit exceeded. Please wait before retrying.")
     except json.JSONDecodeError:
         # Response is not JSON (likely CSV data), which is normal
         pass
@@ -118,5 +121,5 @@ def _filter_csv_by_date_range(csv_data: str, start_date: str, end_date: str) -> 
 
     except Exception as e:
         # If filtering fails, return original data with a warning
-        print(f"Warning: Failed to filter CSV data by date range: {e}")
+        print(f"Warning: Failed to filter CSV data by date range: {type(e).__name__}")
         return csv_data

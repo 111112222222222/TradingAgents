@@ -221,3 +221,4 @@ __marimo__/
 # Dashboard runtime state (caches, logs, scanner state)
 .dashboard/
 .DS_Store
+service-account.json

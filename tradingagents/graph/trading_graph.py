@@ -1,6 +1,7 @@
 # TradingAgents/graph/trading_graph.py
 
 import os
+import re
 from pathlib import Path
 import json
 from datetime import date
@@ -226,6 +227,15 @@ class TradingAgentsGraph:
         # Return decision and processed signal
         return final_state, self.process_signal(final_state["final_trade_decision"])
 
+    @staticmethod
+    def _sanitize_path_component(value: str) -> str:
+        """Sanitize a string for safe use as a file path component."""
+        sanitized = re.sub(r'[^A-Za-z0-9.\-_]', '_', str(value))
+        sanitized = sanitized.strip('.')
+        if not sanitized:
+            raise ValueError(f"Invalid path component: {value!r}")
+        return sanitized
+
     def _log_state(self, trade_date, final_state):
         """Log the final state to a JSON file."""
         self.log_states_dict[str(trade_date)] = {
@@ -258,15 +268,14 @@ class TradingAgentsGraph:
             "final_trade_decision": final_state["final_trade_decision"],
         }
 
-        # Save to file
-        directory = Path(f"eval_results/{self.ticker}/TradingAgentsStrategy_logs/")
+        # Save to file (sanitize user-supplied ticker and date for path safety)
+        safe_ticker = self._sanitize_path_component(self.ticker)
+        safe_date = self._sanitize_path_component(str(trade_date))
+        directory = Path("eval_results") / safe_ticker / "TradingAgentsStrategy_logs"
         directory.mkdir(parents=True, exist_ok=True)
 
-        with open(
-            f"eval_results/{self.ticker}/TradingAgentsStrategy_logs/full_states_log_{trade_date}.json",
-            "w",
-            encoding="utf-8",
-        ) as f:
+        log_file = directory / f"full_states_log_{safe_date}.json"
+        with open(log_file, "w", encoding="utf-8") as f:
             json.dump(self.log_states_dict, f, indent=4)
 
     def reflect_and_remember(self, returns_losses):

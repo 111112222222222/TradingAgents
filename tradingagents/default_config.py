@@ -1,8 +1,21 @@
 import os
 
+def _safe_results_dir() -> str:
+    """Get results directory from env var, with path validation."""
+    raw = os.getenv("TRADINGAGENTS_RESULTS_DIR", "./results")
+    resolved = os.path.abspath(raw)
+    # Prevent writing to system directories
+    blocked_prefixes = ("/etc", "/usr", "/bin", "/sbin", "/var/log", "/System")
+    for prefix in blocked_prefixes:
+        if resolved.startswith(prefix):
+            raise ValueError(
+                f"TRADINGAGENTS_RESULTS_DIR cannot point to system directory: {resolved}"
+            )
+    return raw
+
 DEFAULT_CONFIG = {
     "project_dir": os.path.abspath(os.path.join(os.path.dirname(__file__), ".")),
-    "results_dir": os.getenv("TRADINGAGENTS_RESULTS_DIR", "./results"),
+    "results_dir": _safe_results_dir(),
     "data_cache_dir": os.path.join(
         os.path.abspath(os.path.join(os.path.dirname(__file__), ".")),
         "dataflows/data_cache",

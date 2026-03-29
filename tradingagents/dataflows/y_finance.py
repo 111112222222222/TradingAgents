@@ -163,7 +163,7 @@ def get_stock_stats_indicators_window(
             ind_string += f"{date_str}: {value}\n"
         
     except Exception as e:
-        print(f"Error getting bulk stockstats data: {e}")
+        print(f"Error getting bulk stockstats data: {type(e).__name__}")
         # Fallback to original implementation if bulk method fails
         ind_string = ""
         curr_date_dt = datetime.strptime(curr_date, "%Y-%m-%d")
@@ -286,7 +286,7 @@ def get_stockstats_indicator(
         )
     except Exception as e:
         print(
-            f"Error getting stockstats indicator data for indicator {indicator} on {curr_date}: {e}"
+            f"Error getting stockstats indicator data for indicator {indicator} on {curr_date}: {type(e).__name__}"
         )
         return ""
 
@@ -347,7 +347,7 @@ def get_fundamentals(
         return header + "\n".join(lines)
 
     except Exception as e:
-        return f"Error retrieving fundamentals for {ticker}: {str(e)}"
+        return f"Error retrieving fundamentals for {ticker}: {type(e).__name__}"
 
 
 def get_balance_sheet(
@@ -377,7 +377,7 @@ def get_balance_sheet(
         return header + csv_string
         
     except Exception as e:
-        return f"Error retrieving balance sheet for {ticker}: {str(e)}"
+        return f"Error retrieving balance sheet for {ticker}: {type(e).__name__}"
 
 
 def get_cashflow(
@@ -407,7 +407,7 @@ def get_cashflow(
         return header + csv_string
         
     except Exception as e:
-        return f"Error retrieving cash flow for {ticker}: {str(e)}"
+        return f"Error retrieving cash flow for {ticker}: {type(e).__name__}"
 
 
 def get_income_statement(
@@ -437,7 +437,7 @@ def get_income_statement(
         return header + csv_string
         
     except Exception as e:
-        return f"Error retrieving income statement for {ticker}: {str(e)}"
+        return f"Error retrieving income statement for {ticker}: {type(e).__name__}"
 
 
 def get_insider_transactions(
@@ -461,4 +461,4 @@ def get_insider_transactions(
         return header + csv_string
         
     except Exception as e:
-        return f"Error retrieving insider transactions for {ticker}: {str(e)}"
+        return f"Error retrieving insider transactions for {ticker}: {type(e).__name__}"
