@@ -1,0 +1,16 @@
+{
+  "ticker": "AMZN",
+  "date": "2026-04-10",
+  "runId": "AMZN-2026-04-10",
+  "provider": "anthropic",
+  "deep_model": "claude-opus-4-6",
+  "quick_model": "claude-opus-4-6",
+  "analysts": [
+    "market",
+    "social",
+    "news",
+    "fundamentals"
+  ],
+  "max_debate_rounds": 1,
+  "started_at": "2026-04-12T18:10:02.874Z"
+}

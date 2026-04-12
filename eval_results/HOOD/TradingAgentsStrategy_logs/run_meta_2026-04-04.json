@@ -1,0 +1,16 @@
+{
+  "ticker": "HOOD",
+  "date": "2026-04-04",
+  "runId": "HOOD-2026-04-04",
+  "provider": "anthropic",
+  "deep_model": "claude-opus-4-6",
+  "quick_model": "claude-sonnet-4-6",
+  "analysts": [
+    "market",
+    "social",
+    "news",
+    "fundamentals"
+  ],
+  "max_debate_rounds": 1,
+  "started_at": "2026-04-04T19:42:03.785Z"
+}

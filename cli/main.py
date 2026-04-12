@@ -1190,6 +1190,19 @@ def run_analysis():
                 report_file = save_report_to_disk(final_state, selections["ticker"], save_path)
                 console.print(f"\n[green]✓ Report saved to:[/green] {save_path}")
                 console.print(f"  [dim]Complete report:[/dim] {report_file.name}")
+
+                # Push to Google Sheets
+                try:
+                    from cli.sheets_push import push_signal
+                    if push_signal(
+                        final_state,
+                        selections["ticker"],
+                        model=selections.get("deep_thinker", ""),
+                        provider=selections.get("llm_provider", ""),
+                    ):
+                        console.print("  [dim]Pushed to Google Sheets[/dim]")
+                except Exception:
+                    pass  # Sheets push is best-effort
             except Exception as e:
                 console.print("[red]Error saving report. Please check the path and try again.[/red]")
 

@@ -177,7 +177,7 @@ def select_shallow_thinking_agent(provider) -> str:
             ("Grok 4.1 Fast (Reasoning) - High-performance, 2M ctx", "grok-4-1-fast-reasoning"),
         ],
         "openrouter": [
-            ("GPT-5.4 xHigh - OpenAI frontier via OpenRouter", "openai/gpt-5.4-xhigh"),
+            ("GPT-5.4 - OpenAI frontier via OpenRouter", "openai/gpt-5.4"),
             ("Gemini 3.1 Pro - Reasoning-first via OpenRouter", "google/gemini-3.1-pro-preview"),
             ("NVIDIA Nemotron 3 Nano 30B (free)", "nvidia/nemotron-3-nano-30b-a3b:free"),
             ("Z.AI GLM 4.5 Air (free)", "z-ai/glm-4.5-air:free"),
@@ -246,7 +246,7 @@ def select_deep_thinking_agent(provider) -> str:
             ("Grok 4.1 Fast (Non-Reasoning) - Speed optimized, 2M ctx", "grok-4-1-fast-non-reasoning"),
         ],
         "openrouter": [
-            ("GPT-5.4 xHigh - OpenAI frontier via OpenRouter", "openai/gpt-5.4-xhigh"),
+            ("GPT-5.4 - OpenAI frontier via OpenRouter", "openai/gpt-5.4"),
             ("Gemini 3.1 Pro - Reasoning-first via OpenRouter", "google/gemini-3.1-pro-preview"),
             ("Z.AI GLM 4.5 Air (free)", "z-ai/glm-4.5-air:free"),
             ("NVIDIA Nemotron 3 Nano 30B (free)", "nvidia/nemotron-3-nano-30b-a3b:free"),

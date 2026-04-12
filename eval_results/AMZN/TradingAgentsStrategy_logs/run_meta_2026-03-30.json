@@ -1,0 +1,16 @@
+{
+  "ticker": "AMZN",
+  "date": "2026-03-30",
+  "runId": "AMZN-2026-03-30",
+  "provider": "openai",
+  "deep_model": "gpt-4o-mini",
+  "quick_model": "gpt-4o-mini",
+  "analysts": [
+    "market",
+    "social",
+    "news",
+    "fundamentals"
+  ],
+  "max_debate_rounds": 1,
+  "started_at": "2026-03-30T19:48:31.667Z"
+}

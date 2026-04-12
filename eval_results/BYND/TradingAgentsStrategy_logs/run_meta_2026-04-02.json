@@ -1,0 +1,16 @@
+{
+  "ticker": "BYND",
+  "date": "2026-04-02",
+  "runId": "BYND-2026-04-02",
+  "provider": "openai",
+  "deep_model": "gpt-4o-mini",
+  "quick_model": "gpt-4o-mini",
+  "analysts": [
+    "market",
+    "social",
+    "news",
+    "fundamentals"
+  ],
+  "max_debate_rounds": 1,
+  "started_at": "2026-04-02T18:34:31.955Z"
+}
